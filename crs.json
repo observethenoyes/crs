@@ -1,0 +1,5546 @@
+[
+  {
+    "phrase": "Abergavenny",
+    "meaning": "Penny"
+  },
+  {
+    "phrase": "Ace Of Spades",
+    "meaning": "AIDS"
+  },
+  {
+    "phrase": "Acker Bilk",
+    "meaning": "Milk"
+  },
+  {
+    "phrase": "Adam and Eve",
+    "meaning": "Believe"
+  },
+  {
+    "phrase": "Adam and son",
+    "meaning": "Done"
+  },
+  {
+    "phrase": "Adam And The Ants",
+    "meaning": "Pants"
+  },
+  {
+    "phrase": "Adrian Quist",
+    "meaning": "Pissed"
+  },
+  {
+    "phrase": "Airs and Graces",
+    "meaning": "Braces"
+  },
+  {
+    "phrase": "Airs and Graces",
+    "meaning": "Faces"
+  },
+  {
+    "phrase": "Airs and Graces",
+    "meaning": "Races"
+  },
+  {
+    "phrase": "Alan Minter",
+    "meaning": "Splinter"
+  },
+  {
+    "phrase": "Alans",
+    "meaning": "Pants"
+  },
+  {
+    "phrase": "Alderman's Nail",
+    "meaning": "Tail"
+  },
+  {
+    "phrase": "Ali McGraw",
+    "meaning": "Straw"
+  },
+  {
+    "phrase": "Ali Afloat",
+    "meaning": "Coat"
+  },
+  {
+    "phrase": "All Night Rave",
+    "meaning": "Shave"
+  },
+  {
+    "phrase": "All Time Loser",
+    "meaning": "Boozer (Heavy Drinker)"
+  },
+  {
+    "phrase": "Allan Border",
+    "meaning": "Out Of Order"
+  },
+  {
+    "phrase": "Alligator",
+    "meaning": "Later"
+  },
+  {
+    "phrase": "Almond Rock",
+    "meaning": "Frock"
+  },
+  {
+    "phrase": "Almond Rocks",
+    "meaning": "Socks"
+  },
+  {
+    "phrase": "Alphonse",
+    "meaning": "Ponce"
+  },
+  {
+    "phrase": "Ancient Greek",
+    "meaning": "Reek"
+  },
+  {
+    "phrase": "Andy Cain",
+    "meaning": "Rain"
+  },
+  {
+    "phrase": "Andy McNab",
+    "meaning": "Cab (Taxi)"
+  },
+  {
+    "phrase": "Anna Maria",
+    "meaning": "Fire"
+  },
+  {
+    "phrase": "Anneka Rice",
+    "meaning": "Ice"
+  },
+  {
+    "phrase": "Apple Cider",
+    "meaning": "Spider"
+  },
+  {
+    "phrase": "Apple Core",
+    "meaning": "Score (Twenty Pounds)"
+  },
+  {
+    "phrase": "Apple Fritter",
+    "meaning": "Bitter (Beer)"
+  },
+  {
+    "phrase": "Apples and Pears",
+    "meaning": "Stairs"
+  },
+  {
+    "phrase": "April Fool",
+    "meaning": "Stool"
+  },
+  {
+    "phrase": "April Fool",
+    "meaning": "Tool"
+  },
+  {
+    "phrase": "April Fools",
+    "meaning": "Football Pools"
+  },
+  {
+    "phrase": "April Showers",
+    "meaning": "Flowers"
+  },
+  {
+    "phrase": "Army and Navy",
+    "meaning": "Gravy"
+  },
+  {
+    "phrase": "Artful Dodger",
+    "meaning": "Lodger"
+  },
+  {
+    "phrase": "Arthur Ashe",
+    "meaning": "Cash"
+  },
+  {
+    "phrase": "Arthur Bliss",
+    "meaning": "Piss"
+  },
+  {
+    "phrase": "Arthur Scargill",
+    "meaning": "Gargle (Drink)"
+  },
+  {
+    "phrase": "Ascot Races",
+    "meaning": "Braces"
+  },
+  {
+    "phrase": "Ash And Oaks",
+    "meaning": "Smokes (Cigarettes)"
+  },
+  {
+    "phrase": "Aunt Joanna",
+    "meaning": "Piano"
+  },
+  {
+    "phrase": "Aunt Nell",
+    "meaning": "Smell"
+  },
+  {
+    "phrase": "Auntie Annie",
+    "meaning": "Fanny"
+  },
+  {
+    "phrase": "Auntie Dot",
+    "meaning": "Hot"
+  },
+  {
+    "phrase": "Auntie Ella",
+    "meaning": "Umbrella"
+  },
+  {
+    "phrase": "Auntie Lily",
+    "meaning": "Silly"
+  },
+  {
+    "phrase": "Auntie Nellie",
+    "meaning": "Belly"
+  },
+  {
+    "phrase": "Ave Maria",
+    "meaning": "Fire"
+  },
+  {
+    "phrase": "Ayrton Senna",
+    "meaning": "Tenner (Ten Pound Note)"
+  },
+  {
+    "phrase": "Bacon and Eggs",
+    "meaning": "Legs"
+  },
+  {
+    "phrase": "Butcher's Hook",
+    "meaning": "Look"
+  },
+  {
+    "phrase": "Baa Lamb",
+    "meaning": "Tram"
+  },
+  {
+    "phrase": "Babbling Brook",
+    "meaning": "Cook"
+  },
+  {
+    "phrase": "Babbling Brook",
+    "meaning": "Crook"
+  },
+  {
+    "phrase": "Baby Giraffe",
+    "meaning": "Half(a pint)"
+  },
+  {
+    "phrase": "Bacardi Breezer",
+    "meaning": "Geezer"
+  },
+  {
+    "phrase": "Bacon Sarnie",
+    "meaning": "Pakistani"
+  },
+  {
+    "phrase": "Baden Powell",
+    "meaning": "Towel"
+  },
+  {
+    "phrase": "Bag of Sand",
+    "meaning": "Grand"
+  },
+  {
+    "phrase": "Bag of Yeast",
+    "meaning": "Priest"
+  },
+  {
+    "phrase": "Bag/Bowl of Fruit",
+    "meaning": "Suit"
+  },
+  {
+    "phrase": "Baked Bean",
+    "meaning": "Queen"
+  },
+  {
+    "phrase": "Baked Potato",
+    "meaning": "Later"
+  },
+  {
+    "phrase": "Baker's Dozen",
+    "meaning": "Cousin"
+  },
+  {
+    "phrase": "Bale of Hale",
+    "meaning": "Gay"
+  },
+  {
+    "phrase": "Bale of Straw",
+    "meaning": "Raw"
+  },
+  {
+    "phrase": "Ball and Chalk",
+    "meaning": "Walk"
+  },
+  {
+    "phrase": "Balloon Car",
+    "meaning": "Saloon Bar"
+  },
+  {
+    "phrase": "Ballroom Blitz",
+    "meaning": "Tits"
+  },
+  {
+    "phrase": "Bangers and Mash",
+    "meaning": "Cash"
+  },
+  {
+    "phrase": "Barclays Bank",
+    "meaning": "Wank"
+  },
+  {
+    "phrase": "Barn Owl",
+    "meaning": "Row (quarrel)"
+  },
+  {
+    "phrase": "Barnaby Rudge",
+    "meaning": "Judge"
+  },
+  {
+    "phrase": "Barnet Fair",
+    "meaning": "Hair"
+  },
+  {
+    "phrase": "Barney Rubble",
+    "meaning": "Trouble"
+  },
+  {
+    "phrase": "Barry Crocker",
+    "meaning": "Shocker"
+  },
+  {
+    "phrase": "Barry McGuigan",
+    "meaning": "Big 'Un (Big One)"
+  },
+  {
+    "phrase": "Barry White",
+    "meaning": "Shite"
+  },
+  {
+    "phrase": "Basil Fawlty",
+    "meaning": "Balti"
+  },
+  {
+    "phrase": "Basin Of Gravy",
+    "meaning": "Baby"
+  },
+  {
+    "phrase": "Bat and Wicket",
+    "meaning": "Ticket"
+  },
+  {
+    "phrase": "Bath Bun",
+    "meaning": "Son/Sun"
+  },
+  {
+    "phrase": "Battle of Saratoga",
+    "meaning": "Yoga"
+  },
+  {
+    "phrase": "Battle Of Waterloo",
+    "meaning": "Stew"
+  },
+  {
+    "phrase": "Battlecruiser",
+    "meaning": "Boozer"
+  },
+  {
+    "phrase": "Beans on Toast",
+    "meaning": "Evening Post"
+  },
+  {
+    "phrase": "Bear's Paw",
+    "meaning": "Saw"
+  },
+  {
+    "phrase": "Beechams Pill",
+    "meaning": "Bill/Still"
+  },
+  {
+    "phrase": "Bees and honey",
+    "meaning": "Money"
+  },
+  {
+    "phrase": "Bees Wax",
+    "meaning": "Tax"
+  },
+  {
+    "phrase": "Beetles and Ants",
+    "meaning": "Underpants"
+  },
+  {
+    "phrase": "Beggar Boy's Ass",
+    "meaning": "Brass"
+  },
+  {
+    "phrase": "Beggar-My-Neighbour",
+    "meaning": "Labour"
+  },
+  {
+    "phrase": "Belinda Carlisles",
+    "meaning": "Piles"
+  },
+  {
+    "phrase": "Ben Cartwright",
+    "meaning": "Shite"
+  },
+  {
+    "phrase": "Bended Knees",
+    "meaning": "Cheese"
+  },
+  {
+    "phrase": "Bengal Lancer",
+    "meaning": "Chancer"
+  },
+  {
+    "phrase": "Berk(Berkeley Hunt)",
+    "meaning": "Cunt (person, not genitalia)"
+  },
+  {
+    "phrase": "Betty Boo",
+    "meaning": "Zoo"
+  },
+  {
+    "phrase": "Bexley Health",
+    "meaning": "Teeth"
+  },
+  {
+    "phrase": "Biffo the Bear",
+    "meaning": "Hair"
+  },
+  {
+    "phrase": "Big Ben",
+    "meaning": "Ten"
+  },
+  {
+    "phrase": "Big Dippers",
+    "meaning": "Slippers"
+  },
+  {
+    "phrase": "Bill Wyman",
+    "meaning": "Hymen"
+  },
+  {
+    "phrase": "Billie Piper",
+    "meaning": "Windshield Wiper"
+  },
+  {
+    "phrase": "Billy Goat",
+    "meaning": "Coat"
+  },
+  {
+    "phrase": "Billy Goat",
+    "meaning": "Throat"
+  },
+  {
+    "phrase": "Bin Lid",
+    "meaning": "Quid"
+  },
+  {
+    "phrase": "Bird Bath",
+    "meaning": "Laugh"
+  },
+  {
+    "phrase": "Bird Lime",
+    "meaning": "Time"
+  },
+  {
+    "phrase": "Bird's Nest",
+    "meaning": "Chest"
+  },
+  {
+    "phrase": "Biscuit and Cookie",
+    "meaning": "Bookie"
+  },
+  {
+    "phrase": "Biscuit Tin",
+    "meaning": "Chin"
+  },
+  {
+    "phrase": "Biscuit and Cheese",
+    "meaning": "Knees"
+  },
+  {
+    "phrase": "Bladder Of Lard",
+    "meaning": "Card"
+  },
+  {
+    "phrase": "Blind Mice",
+    "meaning": "Ice"
+  },
+  {
+    "phrase": "Boat Race",
+    "meaning": "Face"
+  },
+  {
+    "phrase": "Bob Hope",
+    "meaning": "Dope"
+  },
+  {
+    "phrase": "Bob Hope",
+    "meaning": "Soap"
+  },
+  {
+    "phrase": "Bob Squash",
+    "meaning": "Wash"
+  },
+  {
+    "phrase": "Bobble Hat and Scarf",
+    "meaning": "Laugh"
+  },
+  {
+    "phrase": "Bobby Moore",
+    "meaning": "Score (Twenty Pounds)"
+  },
+  {
+    "phrase": "Bobby Moore",
+    "meaning": "Sure"
+  },
+  {
+    "phrase": "Bombay Docks",
+    "meaning": "Socks"
+  },
+  {
+    "phrase": "Bonney Fair",
+    "meaning": "Hair"
+  },
+  {
+    "phrase": "Bonnie and Clyde",
+    "meaning": "Snide"
+  },
+  {
+    "phrase": "Bo-Peep",
+    "meaning": "Sleep"
+  },
+  {
+    "phrase": "Boracic (boracic lint)",
+    "meaning": "Skint"
+  },
+  {
+    "phrase": "Boris Karloff",
+    "meaning": "Cough"
+  },
+  {
+    "phrase": "Botany Bay",
+    "meaning": "Run Away"
+  },
+  {
+    "phrase": "Bottle and glass",
+    "meaning": "Arse"
+  },
+  {
+    "phrase": "Bottle and Glass",
+    "meaning": "Class"
+  },
+  {
+    "phrase": "Bottle of Cola",
+    "meaning": "Bowler"
+  },
+  {
+    "phrase": "Bottle of Glue",
+    "meaning": "Two"
+  },
+  {
+    "phrase": "Bottle of Porter",
+    "meaning": "Daughter"
+  },
+  {
+    "phrase": "Bottle of Sauce",
+    "meaning": "Horse"
+  },
+  {
+    "phrase": "Bottle of Scotch",
+    "meaning": "Wrist Watch"
+  },
+  {
+    "phrase": "Bow And Arrow",
+    "meaning": "Barrow"
+  },
+  {
+    "phrase": "Bow and Arrow",
+    "meaning": "Sparrow"
+  },
+  {
+    "phrase": "Brace and Bit",
+    "meaning": "Shit"
+  },
+  {
+    "phrase": "Brace and Bits",
+    "meaning": "Tits"
+  },
+  {
+    "phrase": "Brad Pitt",
+    "meaning": "Shit"
+  },
+  {
+    "phrase": "Brad Pitt",
+    "meaning": "Tit"
+  },
+  {
+    "phrase": "Brahms and Liszt",
+    "meaning": "Pissed (drunk)"
+  },
+  {
+    "phrase": "Brass Band",
+    "meaning": "Hand"
+  },
+  {
+    "phrase": "Brass Nail",
+    "meaning": "Tail (Prostitute)"
+  },
+  {
+    "phrase": "Brass Tacks",
+    "meaning": "Facts"
+  },
+  {
+    "phrase": "Bread & Jam",
+    "meaning": "Van"
+  },
+  {
+    "phrase": "Bread And Butter",
+    "meaning": "Gutter"
+  },
+  {
+    "phrase": "Bread and Cheese",
+    "meaning": "Sneeze"
+  },
+  {
+    "phrase": "Bread and Honey",
+    "meaning": "Money"
+  },
+  {
+    "phrase": "Brenda Lee",
+    "meaning": "Key"
+  },
+  {
+    "phrase": "Bricks and Mortar",
+    "meaning": "Daughter"
+  },
+  {
+    "phrase": "Brigham Young",
+    "meaning": "Tongue"
+  },
+  {
+    "phrase": "Bright And Breezy",
+    "meaning": "Easy"
+  },
+  {
+    "phrase": "Briney Marlin",
+    "meaning": "Darling"
+  },
+  {
+    "phrase": "Bristol City",
+    "meaning": "Breasts"
+  },
+  {
+    "phrase": "British Rail",
+    "meaning": "Email"
+  },
+  {
+    "phrase": "Brittney Spears",
+    "meaning": "Tears"
+  },
+  {
+    "phrase": "Brixton Riot",
+    "meaning": "Diet"
+  },
+  {
+    "phrase": "Brixton Riot",
+    "meaning": "Diet"
+  },
+  {
+    "phrase": "Bromley by Row",
+    "meaning": "Toe"
+  },
+  {
+    "phrase": "Brothers And Sisters",
+    "meaning": "Whiskers"
+  },
+  {
+    "phrase": "Brown Bread",
+    "meaning": "Dead"
+  },
+  {
+    "phrase": "Brown Hat",
+    "meaning": "Cat"
+  },
+  {
+    "phrase": "Brussel Sprouts",
+    "meaning": "Scouts"
+  },
+  {
+    "phrase": "Bubble And Squeak",
+    "meaning": "Beak"
+  },
+  {
+    "phrase": "Bubble And Squeak",
+    "meaning": "Greek"
+  },
+  {
+    "phrase": "Bubble And Squeak",
+    "meaning": "Speak"
+  },
+  {
+    "phrase": "Bubble And Squeak",
+    "meaning": "Week"
+  },
+  {
+    "phrase": "Bubble Bath",
+    "meaning": "Laugh"
+  },
+  {
+    "phrase": "Bucket And Pail",
+    "meaning": "Jail"
+  },
+  {
+    "phrase": "Bucket And Pail",
+    "meaning": "Jail"
+  },
+  {
+    "phrase": "Buddy Holly",
+    "meaning": "Volley"
+  },
+  {
+    "phrase": "Bugs Bunny",
+    "meaning": "Money"
+  },
+  {
+    "phrase": "Bull and Cow",
+    "meaning": "Row"
+  },
+  {
+    "phrase": "Bull And Cow",
+    "meaning": "Row (Quarrel)"
+  },
+  {
+    "phrase": "Bullock Bladder",
+    "meaning": "Ladder"
+  },
+  {
+    "phrase": "Bullock's Horn",
+    "meaning": "Pawn (In-Pawn)"
+  },
+  {
+    "phrase": "Bungle & Zippy",
+    "meaning": "Nippy"
+  },
+  {
+    "phrase": "Bunny Ears",
+    "meaning": "Tears"
+  },
+  {
+    "phrase": "Burnt Cinder",
+    "meaning": "Window"
+  },
+  {
+    "phrase": "Burton On Trent",
+    "meaning": "Rent"
+  },
+  {
+    "phrase": "Bushel And Peck",
+    "meaning": "Neck"
+  },
+  {
+    "phrase": "Bushey Park",
+    "meaning": "Joke"
+  },
+  {
+    "phrase": "Bushey Park",
+    "meaning": "Lark"
+  },
+  {
+    "phrase": "Buster Keaton",
+    "meaning": "Meeting"
+  },
+  {
+    "phrase": "Butcher's Hook",
+    "meaning": "A Look"
+  },
+  {
+    "phrase": "Cab Rank",
+    "meaning": "Bank"
+  },
+  {
+    "phrase": "Cadbury's (Snack)",
+    "meaning": "Back"
+  },
+  {
+    "phrase": "Cadbury's Flake",
+    "meaning": "Mistake"
+  },
+  {
+    "phrase": "Cain And Abel",
+    "meaning": "Table"
+  },
+  {
+    "phrase": "Calvin Klein",
+    "meaning": "Nine"
+  },
+  {
+    "phrase": "Calvin Klein",
+    "meaning": "Fine"
+  },
+  {
+    "phrase": "Camel's Hump",
+    "meaning": "Dump (shit)"
+  },
+  {
+    "phrase": "Can Of Oil",
+    "meaning": "Boil"
+  },
+  {
+    "phrase": "Canal Boat",
+    "meaning": "Tote"
+  },
+  {
+    "phrase": "Canary",
+    "meaning": "Fairy (gay)"
+  },
+  {
+    "phrase": "Candle Wax",
+    "meaning": "Tax"
+  },
+  {
+    "phrase": "Candlesticks",
+    "meaning": "Zits"
+  },
+  {
+    "phrase": "Canoes",
+    "meaning": "Shoes"
+  },
+  {
+    "phrase": "Cape Of Good Hope",
+    "meaning": "Soap"
+  },
+  {
+    "phrase": "Captain Cook",
+    "meaning": "Book"
+  },
+  {
+    "phrase": "Captain Cook",
+    "meaning": "Look"
+  },
+  {
+    "phrase": "Captain Hook",
+    "meaning": "Book"
+  },
+  {
+    "phrase": "Captain Kirk",
+    "meaning": "Work"
+  },
+  {
+    "phrase": "Car and Scooter",
+    "meaning": "Computer"
+  },
+  {
+    "phrase": "Cardboard Box",
+    "meaning": "Pox"
+  },
+  {
+    "phrase": "Carpet",
+    "meaning": "Three/p>"
+  },
+  {
+    "phrase": "Carpet Pile",
+    "meaning": "Smile"
+  },
+  {
+    "phrase": "Cash And Carry-ed",
+    "meaning": "Married"
+  },
+  {
+    "phrase": "Cat And Cages",
+    "meaning": "Wages"
+  },
+  {
+    "phrase": "Cat and Dog",
+    "meaning": "Bog (Toilet)"
+  },
+  {
+    "phrase": "Cat And Mouse",
+    "meaning": "House"
+  },
+  {
+    "phrase": "Cattle Truck",
+    "meaning": "Fuck"
+  },
+  {
+    "phrase": "Cellarflap",
+    "meaning": "Tap (Ask For A Loan)"
+  },
+  {
+    "phrase": "Century",
+    "meaning": "100"
+  },
+  {
+    "phrase": "Chalfont St. Giles",
+    "meaning": "Piles (Haemorrhoids)"
+  },
+  {
+    "phrase": "Chalk Farm",
+    "meaning": "Arm"
+  },
+  {
+    "phrase": "Chamois Leather",
+    "meaning": "Weather"
+  },
+  {
+    "phrase": "Charles Fox",
+    "meaning": "Box"
+  },
+  {
+    "phrase": "Charlie (Charlie Hunt)",
+    "meaning": "Cunt"
+  },
+  {
+    "phrase": "Charlie Brown",
+    "meaning": "Brown"
+  },
+  {
+    "phrase": "Charlie Chan",
+    "meaning": "Tan"
+  },
+  {
+    "phrase": "Charlie Dicken",
+    "meaning": "Chicken"
+  },
+  {
+    "phrase": "Charlie Nash",
+    "meaning": "Slash (Piss)"
+  },
+  {
+    "phrase": "Charlie Prescot",
+    "meaning": "Waistcoat"
+  },
+  {
+    "phrase": "Charlie Pride",
+    "meaning": "Ride"
+  },
+  {
+    "phrase": "Charlie Ronce",
+    "meaning": "Ponce"
+  },
+  {
+    "phrase": "Chas And Dave",
+    "meaning": "Shave"
+  },
+  {
+    "phrase": "Cheerful Giver",
+    "meaning": "Liver"
+  },
+  {
+    "phrase": "Cheese & Ham",
+    "meaning": "Scram"
+  },
+  {
+    "phrase": "Cheese & Kisses",
+    "meaning": "Missus"
+  },
+  {
+    "phrase": "Cheese and Rice",
+    "meaning": "Jesus Christ"
+  },
+  {
+    "phrase": "Cheese Bap",
+    "meaning": "Jap"
+  },
+  {
+    "phrase": "Cheese Gratter",
+    "meaning": "Raver"
+  },
+  {
+    "phrase": "Cheese Rind",
+    "meaning": "Four of a kind"
+  },
+  {
+    "phrase": "Cheesy Quaver",
+    "meaning": "Favour"
+  },
+  {
+    "phrase": "Chelsea Pier",
+    "meaning": "Queer"
+  },
+  {
+    "phrase": "Cheltenham Bold",
+    "meaning": "Cold"
+  },
+  {
+    "phrase": "Cherie Blair",
+    "meaning": "Penalty Fare"
+  },
+  {
+    "phrase": "Cherry Hog",
+    "meaning": "Dog"
+  },
+  {
+    "phrase": "Cherry Pie",
+    "meaning": "Lie"
+  },
+  {
+    "phrase": "Cherry Ripe",
+    "meaning": "Pipe"
+  },
+  {
+    "phrase": "Chevy Chase",
+    "meaning": "Face"
+  },
+  {
+    "phrase": "Chew The Fat",
+    "meaning": "Chat"
+  },
+  {
+    "phrase": "Chewy Toffee",
+    "meaning": "Coffee"
+  },
+  {
+    "phrase": "Chicken And Rice",
+    "meaning": "Nice"
+  },
+  {
+    "phrase": "Chicken Breast",
+    "meaning": "Breast"
+  },
+  {
+    "phrase": "Chicken Curry",
+    "meaning": "Worry"
+  },
+  {
+    "phrase": "Chicken Jalfrezi",
+    "meaning": "Crazy"
+  },
+  {
+    "phrase": "Chicken Oriental",
+    "meaning": "Mental"
+  },
+  {
+    "phrase": "China Plate",
+    "meaning": "Mate (Friend)"
+  },
+  {
+    "phrase": "Chinese Blind",
+    "meaning": "Mind"
+  },
+  {
+    "phrase": "Chipmunks",
+    "meaning": "Trunks"
+  },
+  {
+    "phrase": "Chips & Peas",
+    "meaning": "Knees"
+  },
+  {
+    "phrase": "Chitty Chitty Bang Bang",
+    "meaning": "Cockney Rhyming Slang"
+  },
+  {
+    "phrase": "Choc ice",
+    "meaning": "dice"
+  },
+  {
+    "phrase": "Chocolate Fudge",
+    "meaning": "Judge"
+  },
+  {
+    "phrase": "Chopsticks",
+    "meaning": "six"
+  },
+  {
+    "phrase": "Christian Slater",
+    "meaning": "Later"
+  },
+  {
+    "phrase": "Christmas Crackered",
+    "meaning": "Knackered"
+  },
+  {
+    "phrase": "Christmas Crackers",
+    "meaning": "Knackers (testicles)"
+  },
+  {
+    "phrase": "Christmas Eve",
+    "meaning": "Believe"
+  },
+  {
+    "phrase": "Church Boys",
+    "meaning": "Customs and Excise"
+  },
+  {
+    "phrase": "Cilla Black",
+    "meaning": "Back"
+  },
+  {
+    "phrase": "Circus and clown",
+    "meaning": "Brown"
+  },
+  {
+    "phrase": "City Slickers",
+    "meaning": "Knickers"
+  },
+  {
+    "phrase": "Claires Raynors",
+    "meaning": "Trainers"
+  },
+  {
+    "phrase": "Claret (red wine)",
+    "meaning": "Blood"
+  },
+  {
+    "phrase": "Clever Mike",
+    "meaning": "Bike"
+  },
+  {
+    "phrase": "Clickity Click",
+    "meaning": "Sixty Six"
+  },
+  {
+    "phrase": "Clothes Peg",
+    "meaning": "Egg"
+  },
+  {
+    "phrase": "Cloud Seven",
+    "meaning": "Heaven"
+  },
+  {
+    "phrase": "Coalheaver (From Giver)",
+    "meaning": "Penny"
+  },
+  {
+    "phrase": "Coals and Coke",
+    "meaning": "Broke"
+  },
+  {
+    "phrase": "Coat And Badge",
+    "meaning": "Cadge (Borrow)"
+  },
+  {
+    "phrase": "Coat Hanger",
+    "meaning": "Clanger (mistake)"
+  },
+  {
+    "phrase": "Cobbler's Awls",
+    "meaning": "Balls"
+  },
+  {
+    "phrase": "Cock and Hen",
+    "meaning": "Ten"
+  },
+  {
+    "phrase": "Cock Linnet",
+    "meaning": "Minute"
+  },
+  {
+    "phrase": "Cock Sparrow",
+    "meaning": "Barrow"
+  },
+  {
+    "phrase": "Cockle and Mussells",
+    "meaning": "Brussells (sprouts)"
+  },
+  {
+    "phrase": "Cockney rhyme",
+    "meaning": "time"
+  },
+  {
+    "phrase": "Cockroach",
+    "meaning": "Coach"
+  },
+  {
+    "phrase": "Coco/Cocoa",
+    "meaning": "Say so"
+  },
+  {
+    "phrase": "Colonel Gadaffi",
+    "meaning": "Cafe"
+  },
+  {
+    "phrase": "Comedy Dave",
+    "meaning": "Rave"
+  },
+  {
+    "phrase": "Comic Cuts",
+    "meaning": "Guts"
+  },
+  {
+    "phrase": "Conan Doyle",
+    "meaning": "Boil"
+  },
+  {
+    "phrase": "Constantino Rocca",
+    "meaning": "Shocker"
+  },
+  {
+    "phrase": "Cooking Fat",
+    "meaning": "Cat"
+  },
+  {
+    "phrase": "Corn Beef",
+    "meaning": "Teeth"
+  },
+  {
+    "phrase": "Corn on the Cob",
+    "meaning": "Job"
+  },
+  {
+    "phrase": "Cough and Drag",
+    "meaning": "Fag (cigarette)"
+  },
+  {
+    "phrase": "Council gritter",
+    "meaning": "shitter"
+  },
+  {
+    "phrase": "Country Cousin",
+    "meaning": "Dozen"
+  },
+  {
+    "phrase": "Cousin Kyle",
+    "meaning": "Paedophile"
+  },
+  {
+    "phrase": "Cousin Sis",
+    "meaning": "Piss"
+  },
+  {
+    "phrase": "Cows and Kisses",
+    "meaning": "Missus (wife)"
+  },
+  {
+    "phrase": "Cow's Calf",
+    "meaning": "Half"
+  },
+  {
+    "phrase": "Cozzer's",
+    "meaning": "Cops"
+  },
+  {
+    "phrase": "Cream Cookies",
+    "meaning": "Bookies (Bookmakers)"
+  },
+  {
+    "phrase": "Cream Cracker-ed",
+    "meaning": "Knackered"
+  },
+  {
+    "phrase": "Crispy Duck",
+    "meaning": "Fuck"
+  },
+  {
+    "phrase": "Crosby, Stills, Nash",
+    "meaning": "Cash"
+  },
+  {
+    "phrase": "Crown Jewels",
+    "meaning": "Tools"
+  },
+  {
+    "phrase": "Crust (crust of bread)",
+    "meaning": "Head"
+  },
+  {
+    "phrase": "Crust of Bread",
+    "meaning": "Head"
+  },
+  {
+    "phrase": "Cucumbers",
+    "meaning": "Numbers"
+  },
+  {
+    "phrase": "Cuddle And Kiss",
+    "meaning": "Piss"
+  },
+  {
+    "phrase": "Cuddle And Kiss",
+    "meaning": "Miss"
+  },
+  {
+    "phrase": "Currant Bun",
+    "meaning": "Nun"
+  },
+  {
+    "phrase": "Currant Bun",
+    "meaning": "Sun"
+  },
+  {
+    "phrase": "Currant Cake-y",
+    "meaning": "Shaky"
+  },
+  {
+    "phrase": "Current Bun",
+    "meaning": "Nun"
+  },
+  {
+    "phrase": "Custard And Jelly",
+    "meaning": "Telly (Television)"
+  },
+  {
+    "phrase": "Cuts And Scratches",
+    "meaning": "Matches"
+  },
+  {
+    "phrase": "Daff-A-Down Dilly",
+    "meaning": "Silly"
+  },
+  {
+    "phrase": "Daft And Barmy",
+    "meaning": "Army"
+  },
+  {
+    "phrase": "Daily Mail",
+    "meaning": "Tale"
+  },
+  {
+    "phrase": "Daisy Roots",
+    "meaning": "Boots"
+  },
+  {
+    "phrase": "Dancing Fleas",
+    "meaning": "Keys"
+  },
+  {
+    "phrase": "Danny La Rue",
+    "meaning": "Clue"
+  },
+  {
+    "phrase": "Danny Marr",
+    "meaning": "Car (Esp Flash One)"
+  },
+  {
+    "phrase": "Darby and Joan",
+    "meaning": "Moan"
+  },
+  {
+    "phrase": "Darky Cox",
+    "meaning": "Box"
+  },
+  {
+    "phrase": "David Gower",
+    "meaning": "Shower"
+  },
+  {
+    "phrase": "Day And Night",
+    "meaning": "Light (Ale)"
+  },
+  {
+    "phrase": "Day's Dawning",
+    "meaning": "Morning"
+  },
+  {
+    "phrase": "Deep Sea Diver",
+    "meaning": "Fiver (Five Pound Note)"
+  },
+  {
+    "phrase": "Dennis Law",
+    "meaning": "Draw"
+  },
+  {
+    "phrase": "Derby Kelly",
+    "meaning": "Belly"
+  },
+  {
+    "phrase": "Derry and Tom",
+    "meaning": "Bomb"
+  },
+  {
+    "phrase": "Dick Emery",
+    "meaning": "Memory"
+  },
+  {
+    "phrase": "Dickory Dory",
+    "meaning": "Clock"
+  },
+  {
+    "phrase": "Dicky Bird",
+    "meaning": "Word"
+  },
+  {
+    "phrase": "Dicky Dirt",
+    "meaning": "Shirt"
+  },
+  {
+    "phrase": "Dig In The Grave",
+    "meaning": "Shave"
+  },
+  {
+    "phrase": "Ding Dong",
+    "meaning": "Song"
+  },
+  {
+    "phrase": "Ding Dong Bell",
+    "meaning": "Hell"
+  },
+  {
+    "phrase": "Dinky Doo",
+    "meaning": "Twenty-Two"
+  },
+  {
+    "phrase": "Dinky Doos",
+    "meaning": "Shoes"
+  },
+  {
+    "phrase": "Dixie Dean",
+    "meaning": "Jeans"
+  },
+  {
+    "phrase": "Do As You Like-y",
+    "meaning": "Pikey"
+  },
+  {
+    "phrase": "Do Me Good",
+    "meaning": "Wood"
+  },
+  {
+    "phrase": "Doctor Crippen",
+    "meaning": "Dripping"
+  },
+  {
+    "phrase": "Dog And Bone",
+    "meaning": "Telephone"
+  },
+  {
+    "phrase": "Dog's Meat",
+    "meaning": "Feet"
+  },
+  {
+    "phrase": "Donald Duck",
+    "meaning": "Luck"
+  },
+  {
+    "phrase": "Donkey's Ears",
+    "meaning": "Years"
+  },
+  {
+    "phrase": "Door to Door",
+    "meaning": "Four"
+  },
+  {
+    "phrase": "Doris Day",
+    "meaning": "Gay (Homosexual)"
+  },
+  {
+    "phrase": "Dot and Dash",
+    "meaning": "Moustache"
+  },
+  {
+    "phrase": "Doug McClure",
+    "meaning": "Whore"
+  },
+  {
+    "phrase": "Douglas Hurd",
+    "meaning": "Turd"
+  },
+  {
+    "phrase": "Down The Drains",
+    "meaning": "Brains"
+  },
+  {
+    "phrase": "Dribs And Drabs",
+    "meaning": "Crabs"
+  },
+  {
+    "phrase": "Drum And Fife",
+    "meaning": "Knife"
+  },
+  {
+    "phrase": "Drummond And Roce",
+    "meaning": "Knife And Fork"
+  },
+  {
+    "phrase": "Duchess Of Fife",
+    "meaning": "Wife"
+  },
+  {
+    "phrase": "Duck And Dive",
+    "meaning": "Hide"
+  },
+  {
+    "phrase": "Duck and Dive",
+    "meaning": "Skive"
+  },
+  {
+    "phrase": "Dudley Moores",
+    "meaning": "Sores"
+  },
+  {
+    "phrase": "Duke Of Argyles",
+    "meaning": "Piles"
+  },
+  {
+    "phrase": "Duke Of Kent",
+    "meaning": "Rent"
+  },
+  {
+    "phrase": "Duke Of York",
+    "meaning": "Chalk"
+  },
+  {
+    "phrase": "Duke Of York",
+    "meaning": "Cork"
+  },
+  {
+    "phrase": "Dunlop Tyre",
+    "meaning": "Liar"
+  },
+  {
+    "phrase": "Dustbin lid",
+    "meaning": "Kid"
+  },
+  {
+    "phrase": "Early Doors",
+    "meaning": "Drawers (Pair Of)"
+  },
+  {
+    "phrase": "Early Hours",
+    "meaning": "Flowers"
+  },
+  {
+    "phrase": "Eartha Kitt",
+    "meaning": "Shit"
+  },
+  {
+    "phrase": "Earwig",
+    "meaning": "Twig (Understand)"
+  },
+  {
+    "phrase": "East ang West",
+    "meaning": "Vest"
+  },
+  {
+    "phrase": "Easter Bunny",
+    "meaning": "Funny"
+  },
+  {
+    "phrase": "Eddie Grundies",
+    "meaning": "Undies (Underwear)"
+  },
+  {
+    "phrase": "Eddy Grant",
+    "meaning": "Plant"
+  },
+  {
+    "phrase": "Edgar Allan Poe",
+    "meaning": "Tow"
+  },
+  {
+    "phrase": "Edinburgh Fringe",
+    "meaning": "Minge"
+  },
+  {
+    "phrase": "Edna Everage",
+    "meaning": "Beverage"
+  },
+  {
+    "phrase": "Efan Ekuku",
+    "meaning": "Poo"
+  },
+  {
+    "phrase": "Egg Yoke",
+    "meaning": "Joke"
+  },
+  {
+    "phrase": "Eggs and Kippers",
+    "meaning": "Slippers"
+  },
+  {
+    "phrase": "Eiffel Tower",
+    "meaning": "Shower"
+  },
+  {
+    "phrase": "Eighteen Pence",
+    "meaning": "Sense"
+  },
+  {
+    "phrase": "Elastic Bands",
+    "meaning": "Hands"
+  },
+  {
+    "phrase": "Elephant And Castle",
+    "meaning": "Parcel"
+  },
+  {
+    "phrase": "Elephant And Castle",
+    "meaning": "Arsehole"
+  },
+  {
+    "phrase": "Elephant's Trunk",
+    "meaning": "Drunk (Inebriated)"
+  },
+  {
+    "phrase": "Elliot Ness",
+    "meaning": "Mess"
+  },
+  {
+    "phrase": "Elmer Fudd",
+    "meaning": "Spud"
+  },
+  {
+    "phrase": "Elsie Tanner",
+    "meaning": "Spanner"
+  },
+  {
+    "phrase": "Emma Freuds",
+    "meaning": "Haemorrhoids"
+  },
+  {
+    "phrase": "Empire State",
+    "meaning": "Mate"
+  },
+  {
+    "phrase": "Engineers And Stokers",
+    "meaning": "Brokers"
+  },
+  {
+    "phrase": "Ernie Marsh",
+    "meaning": "Grass"
+  },
+  {
+    "phrase": "Errol Flynn",
+    "meaning": "Chin"
+  },
+  {
+    "phrase": "Euan Blair",
+    "meaning": "Leicester Square"
+  },
+  {
+    "phrase": "Everton Toffee",
+    "meaning": "Coffee"
+  },
+  {
+    "phrase": "Ewan McGreggor",
+    "meaning": "Beggar"
+  },
+  {
+    "phrase": "Eye Lash",
+    "meaning": "Slash"
+  },
+  {
+    "phrase": "Finsbury (short for Finsbury Park)",
+    "meaning": "Arc(light) (in theaters)"
+  },
+  {
+    "phrase": "Fainting Fits",
+    "meaning": "Tits (Breasts)"
+  },
+  {
+    "phrase": "Faith and Hope",
+    "meaning": "Soap"
+  },
+  {
+    "phrase": "Falun Gong",
+    "meaning": "Wrong"
+  },
+  {
+    "phrase": "Family Tree",
+    "meaning": "Lavatory"
+  },
+  {
+    "phrase": "Fanny Blair",
+    "meaning": "Hair"
+  },
+  {
+    "phrase": "Fanny Craddock",
+    "meaning": "Haddock"
+  },
+  {
+    "phrase": "Fanny Hill",
+    "meaning": "Pill (Contraceptive)"
+  },
+  {
+    "phrase": "Far East",
+    "meaning": "Priest"
+  },
+  {
+    "phrase": "Farmer Giles",
+    "meaning": "Piles (Haemorrhoids)"
+  },
+  {
+    "phrase": "Fat and Skinny",
+    "meaning": "Mini"
+  },
+  {
+    "phrase": "Fat and Wide",
+    "meaning": "Bride"
+  },
+  {
+    "phrase": "Fatboy Slim",
+    "meaning": "Gym"
+  },
+  {
+    "phrase": "Father Ted",
+    "meaning": "Dead"
+  },
+  {
+    "phrase": "Feather And Flip",
+    "meaning": "Kip (Sleep)"
+  },
+  {
+    "phrase": "Feathers",
+    "meaning": "33"
+  },
+  {
+    "phrase": "Fibre of your Fabric",
+    "meaning": "Loot (money)"
+  },
+  {
+    "phrase": "Fiddle and Flute",
+    "meaning": "Suit"
+  },
+  {
+    "phrase": "Fiddle De Dee",
+    "meaning": "Pee/Wee"
+  },
+  {
+    "phrase": "Field Of Wheat",
+    "meaning": "Street"
+  },
+  {
+    "phrase": "Fine And Dandy",
+    "meaning": "Brandy"
+  },
+  {
+    "phrase": "Finger and Thumb",
+    "meaning": "Rum"
+  },
+  {
+    "phrase": "Finlay Quaye",
+    "meaning": "Gay (Homosexual)"
+  },
+  {
+    "phrase": "Finsbury Park",
+    "meaning": "Mark"
+  },
+  {
+    "phrase": "Fireman's Hose",
+    "meaning": "Nose"
+  },
+  {
+    "phrase": "First Aid Kits",
+    "meaning": "Tits"
+  },
+  {
+    "phrase": "Fish and Chips",
+    "meaning": "Tips (Gratuities)"
+  },
+  {
+    "phrase": "Fish Hook",
+    "meaning": "Book"
+  },
+  {
+    "phrase": "Fisherman's Daughter",
+    "meaning": "Water"
+  },
+  {
+    "phrase": "Five To Two",
+    "meaning": "Jew"
+  },
+  {
+    "phrase": "Flight Lieutenant Biggles",
+    "meaning": "Giggles"
+  },
+  {
+    "phrase": "Flounder And Dab",
+    "meaning": "Cab (Taxi)"
+  },
+  {
+    "phrase": "Flowers and Frolics",
+    "meaning": "Bollocks"
+  },
+  {
+    "phrase": "Flowery Dell",
+    "meaning": "Cell (Prison)"
+  },
+  {
+    "phrase": "Fly-By-Nights",
+    "meaning": "Tights"
+  },
+  {
+    "phrase": "Foot Pump",
+    "meaning": "Dump"
+  },
+  {
+    "phrase": "Fore And Aft",
+    "meaning": "Daft"
+  },
+  {
+    "phrase": "Fork And Knife",
+    "meaning": "Wife"
+  },
+  {
+    "phrase": "Forrest Gump",
+    "meaning": "Dumb (shit)"
+  },
+  {
+    "phrase": "Forsythe Saga",
+    "meaning": "Lager"
+  },
+  {
+    "phrase": "Four By Two",
+    "meaning": "Jew"
+  },
+  {
+    "phrase": "Four Seasons",
+    "meaning": "Reasons"
+  },
+  {
+    "phrase": "Four Wheeler",
+    "meaning": "Sheila"
+  },
+  {
+    "phrase": "Francis Drakes",
+    "meaning": "Brakes"
+  },
+  {
+    "phrase": "Frank Bough",
+    "meaning": "Off"
+  },
+  {
+    "phrase": "Frankie Howard",
+    "meaning": "Coward"
+  },
+  {
+    "phrase": "Frankie Vaughan",
+    "meaning": "Porn"
+  },
+  {
+    "phrase": "Frankie Vaughan",
+    "meaning": "Prawn"
+  },
+  {
+    "phrase": "Fred Astaire",
+    "meaning": "Hair"
+  },
+  {
+    "phrase": "Fred McMurrays",
+    "meaning": "Worries"
+  },
+  {
+    "phrase": "French Kiss",
+    "meaning": "Piss (Urinate)"
+  },
+  {
+    "phrase": "Friar Truck",
+    "meaning": "Luck"
+  },
+  {
+    "phrase": "Fridge Freezer",
+    "meaning": "Geezer (Man)"
+  },
+  {
+    "phrase": "Frog and Toad",
+    "meaning": "Road"
+  },
+  {
+    "phrase": "Front Door",
+    "meaning": "Bore"
+  },
+  {
+    "phrase": "Front Wheel Skid",
+    "meaning": "Yid (Jew)"
+  },
+  {
+    "phrase": "Fruit Gum",
+    "meaning": "Chum"
+  },
+  {
+    "phrase": "Frying Pan",
+    "meaning": "Fan"
+  },
+  {
+    "phrase": "Frying Pan",
+    "meaning": "Old Man (Husband)"
+  },
+  {
+    "phrase": "Fugly",
+    "meaning": "Ugly"
+  },
+  {
+    "phrase": "Gamma Ray",
+    "meaning": "Stray"
+  },
+  {
+    "phrase": "Gang and Mob",
+    "meaning": "Gob (mouth)"
+  },
+  {
+    "phrase": "Garden Gate",
+    "meaning": "8"
+  },
+  {
+    "phrase": "Garden Gate",
+    "meaning": "Late"
+  },
+  {
+    "phrase": "Garden Gate",
+    "meaning": "Magistrate"
+  },
+  {
+    "phrase": "Garden Gate",
+    "meaning": "Mate (Friend)"
+  },
+  {
+    "phrase": "Gary Abblets",
+    "meaning": "Tablets (Ecstasy)"
+  },
+  {
+    "phrase": "Gary Ablett",
+    "meaning": "Tablet (Ecstasy Pill)"
+  },
+  {
+    "phrase": "Gary Glitter",
+    "meaning": "Bitter (Beer)"
+  },
+  {
+    "phrase": "Gary Glitter",
+    "meaning": "Shitter (Anus)"
+  },
+  {
+    "phrase": "Gary Player",
+    "meaning": "All Dayer (all day drinking)"
+  },
+  {
+    "phrase": "Gates of Rome",
+    "meaning": "Home"
+  },
+  {
+    "phrase": "Gathers",
+    "meaning": "Cops"
+  },
+  {
+    "phrase": "Gavvers",
+    "meaning": "Police"
+  },
+  {
+    "phrase": "Gay & Hearty",
+    "meaning": "Party"
+  },
+  {
+    "phrase": "Gay and Frisky",
+    "meaning": "Whisky"
+  },
+  {
+    "phrase": "Gay Gordon",
+    "meaning": "Parking Warden"
+  },
+  {
+    "phrase": "General Election",
+    "meaning": "Erection"
+  },
+  {
+    "phrase": "Geoff Hurst",
+    "meaning": "Burst (urinate)"
+  },
+  {
+    "phrase": "Geoff Hurst",
+    "meaning": "Thirst"
+  },
+  {
+    "phrase": "Geoffrey Chaucer",
+    "meaning": "Saucer"
+  },
+  {
+    "phrase": "George and Zippy",
+    "meaning": "Nippy (cold)"
+  },
+  {
+    "phrase": "George Best",
+    "meaning": "Chest"
+  },
+  {
+    "phrase": "George Martin",
+    "meaning": "Farting"
+  },
+  {
+    "phrase": "George Raft",
+    "meaning": "Draft"
+  },
+  {
+    "phrase": "George Raft",
+    "meaning": "Draught"
+  },
+  {
+    "phrase": "Georgie Bests",
+    "meaning": "Breasts"
+  },
+  {
+    "phrase": "Georgio Armani",
+    "meaning": "Sarnie (Sandwich)"
+  },
+  {
+    "phrase": "German Band",
+    "meaning": "Hand"
+  },
+  {
+    "phrase": "German Bands",
+    "meaning": "Hands"
+  },
+  {
+    "phrase": "Gertie Gitana",
+    "meaning": "Banana"
+  },
+  {
+    "phrase": "Ghunga Dhin",
+    "meaning": "Chin"
+  },
+  {
+    "phrase": "Gianluca Vialli",
+    "meaning": "Charlie (Cocaine)"
+  },
+  {
+    "phrase": "Giggle and Titter",
+    "meaning": "Bitter (Beer)"
+  },
+  {
+    "phrase": "Gin and Tonic",
+    "meaning": "Supersonic"
+  },
+  {
+    "phrase": "Ginger Ale",
+    "meaning": "Jail"
+  },
+  {
+    "phrase": "Ginger Beer",
+    "meaning": "Engineer"
+  },
+  {
+    "phrase": "Ginger Beer",
+    "meaning": "Queer (odd)"
+  },
+  {
+    "phrase": "Gipsy's Warning",
+    "meaning": "Morning"
+  },
+  {
+    "phrase": "Giraffe",
+    "meaning": "Laugh"
+  },
+  {
+    "phrase": "Girls and Boys",
+    "meaning": "Noise"
+  },
+  {
+    "phrase": "Glasgow Ranger",
+    "meaning": "Stranger"
+  },
+  {
+    "phrase": "Glass of Plonk",
+    "meaning": "Conk (Nose)"
+  },
+  {
+    "phrase": "Glass of Water",
+    "meaning": "Quarter"
+  },
+  {
+    "phrase": "Glenn Hoddle",
+    "meaning": "Doddle (easy or straight forward)"
+  },
+  {
+    "phrase": "Gloria Gaynors",
+    "meaning": "Trainers (running shoes)"
+  },
+  {
+    "phrase": "Gobstopper",
+    "meaning": "Chopper (Penis)"
+  },
+  {
+    "phrase": "God Forbid",
+    "meaning": "Kid (child)"
+  },
+  {
+    "phrase": "God Forbids",
+    "meaning": "Kids"
+  },
+  {
+    "phrase": "Gold Watch",
+    "meaning": "Scotch"
+  },
+  {
+    "phrase": "Gold Watch",
+    "meaning": "Scotch (Whisky)"
+  },
+  {
+    "phrase": "Goldie Locks (Goldies)",
+    "meaning": "Socks"
+  },
+  {
+    "phrase": "Gooseberry Pudding",
+    "meaning": "Woman"
+  },
+  {
+    "phrase": "Goose's Neck",
+    "meaning": "Cheque"
+  },
+  {
+    "phrase": "Gordon & Gotch",
+    "meaning": "Watch"
+  },
+  {
+    "phrase": "Gordon And Gotch",
+    "meaning": "Wrist Watch"
+  },
+  {
+    "phrase": "Grass in the Park",
+    "meaning": "Nark"
+  },
+  {
+    "phrase": "Grasshopper",
+    "meaning": "Copper (Police)"
+  },
+  {
+    "phrase": "Gravel and grit",
+    "meaning": "Shit"
+  },
+  {
+    "phrase": "Gravy lumps",
+    "meaning": "Dumps"
+  },
+  {
+    "phrase": "Grease and Grime",
+    "meaning": "Time"
+  },
+  {
+    "phrase": "Green eggs and ham",
+    "meaning": "Exam"
+  },
+  {
+    "phrase": "Green Gage",
+    "meaning": "Wage"
+  },
+  {
+    "phrase": "Greengages",
+    "meaning": "Wages"
+  },
+  {
+    "phrase": "Gregory Peck",
+    "meaning": "Cheque"
+  },
+  {
+    "phrase": "Gregory Peck",
+    "meaning": "Neck"
+  },
+  {
+    "phrase": "Gregory Peck",
+    "meaning": "Specs (spectacles)"
+  },
+  {
+    "phrase": "Grey Mare",
+    "meaning": "Fare"
+  },
+  {
+    "phrase": "Grumble & Grunt",
+    "meaning": "Cunt"
+  },
+  {
+    "phrase": "Gypsy Nell",
+    "meaning": "Hell"
+  },
+  {
+    "phrase": "Gypsy's Kiss",
+    "meaning": "Piss"
+  },
+  {
+    "phrase": "Habitual Knitter",
+    "meaning": "Bitter"
+  },
+  {
+    "phrase": "Hackney Marsh",
+    "meaning": "Glass"
+  },
+  {
+    "phrase": "Haddock And Bloater",
+    "meaning": "Motor"
+  },
+  {
+    "phrase": "Haddock and Bloater",
+    "meaning": "Motor (car)"
+  },
+  {
+    "phrase": "Hair Gel",
+    "meaning": "Bell"
+  },
+  {
+    "phrase": "Hairy Knees",
+    "meaning": "Please"
+  },
+  {
+    "phrase": "Hairy Muff",
+    "meaning": "Fair Enough"
+  },
+  {
+    "phrase": "Hairy Nips",
+    "meaning": "Chips"
+  },
+  {
+    "phrase": "Half A Grose",
+    "meaning": "Dose"
+  },
+  {
+    "phrase": "Half Inch",
+    "meaning": "Pinch (To Steal)"
+  },
+  {
+    "phrase": "Half Inched",
+    "meaning": "Pinched"
+  },
+  {
+    "phrase": "Half Past Three",
+    "meaning": "Tea"
+  },
+  {
+    "phrase": "Ham And Cheesy",
+    "meaning": "Easy"
+  },
+  {
+    "phrase": "Ham And Eggs",
+    "meaning": "Legs"
+  },
+  {
+    "phrase": "Ham Shank",
+    "meaning": "Bank"
+  },
+  {
+    "phrase": "Ham Shanks",
+    "meaning": "Yanks"
+  },
+  {
+    "phrase": "Hammer And Tack",
+    "meaning": "Back"
+  },
+  {
+    "phrase": "Hampden Roar",
+    "meaning": "Score"
+  },
+  {
+    "phrase": "Hampstead Health",
+    "meaning": "Teeth"
+  },
+  {
+    "phrase": "Hampton Wick",
+    "meaning": "Prick (Penis)"
+  },
+  {
+    "phrase": "Hank Marvin",
+    "meaning": "Starvin'"
+  },
+  {
+    "phrase": "Hansel and Gretel",
+    "meaning": "Kettle"
+  },
+  {
+    "phrase": "Ha'penny Dip",
+    "meaning": "Ship"
+  },
+  {
+    "phrase": "Harold Wilsons",
+    "meaning": "Stilsons (Pipe Wrenches)"
+  },
+  {
+    "phrase": "Harpers And Queens",
+    "meaning": "Jeans"
+  },
+  {
+    "phrase": "Harris Tweed",
+    "meaning": "Weed"
+  },
+  {
+    "phrase": "Harry Bash",
+    "meaning": "Cash"
+  },
+  {
+    "phrase": "Harry Dash",
+    "meaning": "Flash (natty)"
+  },
+  {
+    "phrase": "Harry Kewell",
+    "meaning": "Cool"
+  },
+  {
+    "phrase": "Harry Lime",
+    "meaning": "Time"
+  },
+  {
+    "phrase": "Harry Lin",
+    "meaning": "Chin"
+  },
+  {
+    "phrase": "Harry Monk",
+    "meaning": "Spunk (semen)"
+  },
+  {
+    "phrase": "Harry Nash",
+    "meaning": "Cash"
+  },
+  {
+    "phrase": "Harry Rag",
+    "meaning": "Fag (cigarette)"
+  },
+  {
+    "phrase": "Harry Randall",
+    "meaning": "Candle"
+  },
+  {
+    "phrase": "Harry Tate",
+    "meaning": "Eight"
+  },
+  {
+    "phrase": "Harry Tate",
+    "meaning": "State (Condition, Esp Poor)"
+  },
+  {
+    "phrase": "Harry Wragg",
+    "meaning": "Fag (Cigarette)"
+  },
+  {
+    "phrase": "Harvey Nichol",
+    "meaning": "Pickle"
+  },
+  {
+    "phrase": "Hat Rack",
+    "meaning": "Back"
+  },
+  {
+    "phrase": "Hatti Jacques",
+    "meaning": "Shakes"
+  },
+  {
+    "phrase": "Hay Stack",
+    "meaning": "Back"
+  },
+  {
+    "phrase": "Hearts Of Oak",
+    "meaning": "Broke (Financially Ruined)"
+  },
+  {
+    "phrase": "Hedge And Ditch",
+    "meaning": "Pitch (Stall Or Stand)"
+  },
+  {
+    "phrase": "Helter-skelter",
+    "meaning": "An air-raid shelter"
+  },
+  {
+    "phrase": "Henry Moore",
+    "meaning": "Door"
+  },
+  {
+    "phrase": "Here and there",
+    "meaning": "Chair"
+  },
+  {
+    "phrase": "Herring And Kipper",
+    "meaning": "Stripper"
+  },
+  {
+    "phrase": "Herring Bone",
+    "meaning": "Phone"
+  },
+  {
+    "phrase": "Hey Diddle Diddle",
+    "meaning": "Fiddle"
+  },
+  {
+    "phrase": "Hey Diddle Diddle",
+    "meaning": "Middle"
+  },
+  {
+    "phrase": "Hide and Seek",
+    "meaning": "Cheek"
+  },
+  {
+    "phrase": "Highland Fling",
+    "meaning": "Ring"
+  },
+  {
+    "phrase": "Hillman Hunters",
+    "meaning": "Punters"
+  },
+  {
+    "phrase": "Hit and Miss",
+    "meaning": "Kiss"
+  },
+  {
+    "phrase": "Hit and Miss",
+    "meaning": "Piss"
+  },
+  {
+    "phrase": "Hobson's Choice",
+    "meaning": "Voice"
+  },
+  {
+    "phrase": "Holloa Boys Holloa",
+    "meaning": "Collar"
+  },
+  {
+    "phrase": "Holly Hox",
+    "meaning": "Pox"
+  },
+  {
+    "phrase": "Holly Reath",
+    "meaning": "Teeth"
+  },
+  {
+    "phrase": "Holy Friar",
+    "meaning": "Liar"
+  },
+  {
+    "phrase": "Holy Ghost",
+    "meaning": "Racing Post"
+  },
+  {
+    "phrase": "Holy Ghost",
+    "meaning": "Toast"
+  },
+  {
+    "phrase": "Hopping Pot",
+    "meaning": "Lot (Serving or share)"
+  },
+  {
+    "phrase": "Horse and Cart",
+    "meaning": "Fart"
+  },
+  {
+    "phrase": "Horse And Cart",
+    "meaning": "Heart"
+  },
+  {
+    "phrase": "Hot Cross Bun",
+    "meaning": "Nun"
+  },
+  {
+    "phrase": "Hot Cross Bun",
+    "meaning": "Son"
+  },
+  {
+    "phrase": "Hot Potato",
+    "meaning": "Waiter"
+  },
+  {
+    "phrase": "Hotpoint Fridge",
+    "meaning": "Severn Bridge"
+  },
+  {
+    "phrase": "House To Let",
+    "meaning": "Bet"
+  },
+  {
+    "phrase": "Housemaid's Knee",
+    "meaning": "Sea"
+  },
+  {
+    "phrase": "How d'you Do",
+    "meaning": "Shoe"
+  },
+  {
+    "phrase": "How's your father?",
+    "meaning": "Lather"
+  },
+  {
+    "phrase": "Hum & Song",
+    "meaning": "Pong (smell)"
+  },
+  {
+    "phrase": "I Suppose",
+    "meaning": "Nose"
+  },
+  {
+    "phrase": "Ian Beale",
+    "meaning": "Deal"
+  },
+  {
+    "phrase": "Ian Rush",
+    "meaning": "Brish"
+  },
+  {
+    "phrase": "Ian Wrights",
+    "meaning": "Lights"
+  },
+  {
+    "phrase": "Ice Cream Freezer",
+    "meaning": "Geezer"
+  },
+  {
+    "phrase": "Ice Rink",
+    "meaning": "Drink"
+  },
+  {
+    "phrase": "I'm Afloat",
+    "meaning": "Overcoat"
+  },
+  {
+    "phrase": "In And Out",
+    "meaning": "Gout"
+  },
+  {
+    "phrase": "In The Nude",
+    "meaning": "Food"
+  },
+  {
+    "phrase": "Inky Smudge",
+    "meaning": "Judge"
+  },
+  {
+    "phrase": "Ins and Outs",
+    "meaning": "Snouts (Cigarettes)"
+  },
+  {
+    "phrase": "Insects And Ants",
+    "meaning": "Underpants"
+  },
+  {
+    "phrase": "Inspector Morse",
+    "meaning": "Sauce"
+  },
+  {
+    "phrase": "Intercity",
+    "meaning": "Kitty (pot of cash)"
+  },
+  {
+    "phrase": "Irish Jig",
+    "meaning": "Wig"
+  },
+  {
+    "phrase": "Irish Pig",
+    "meaning": "Wig"
+  },
+  {
+    "phrase": "Irish Rose",
+    "meaning": "Nose"
+  },
+  {
+    "phrase": "Iron Hoof",
+    "meaning": "Poof (homosexual)"
+  },
+  {
+    "phrase": "Iron Horse",
+    "meaning": "Toss"
+  },
+  {
+    "phrase": "Iron Lung",
+    "meaning": "Tongue"
+  },
+  {
+    "phrase": "Iron Tank",
+    "meaning": "Bank"
+  },
+  {
+    "phrase": "Isle of Skye",
+    "meaning": "Pie"
+  },
+  {
+    "phrase": "Isle of Wight",
+    "meaning": "Light"
+  },
+  {
+    "phrase": "Isle of Wight",
+    "meaning": "Right"
+  },
+  {
+    "phrase": "Isle of Wight",
+    "meaning": "Tights"
+  },
+  {
+    "phrase": "Itch and Scratch",
+    "meaning": "Match"
+  },
+  {
+    "phrase": "Itchy Ring",
+    "meaning": "Burger Kind"
+  },
+  {
+    "phrase": "Itchy Teeth",
+    "meaning": "Beef"
+  },
+  {
+    "phrase": "Ivory Band",
+    "meaning": "Hand"
+  },
+  {
+    "phrase": "J Arthur Rank",
+    "meaning": "Bank"
+  },
+  {
+    "phrase": "J Arthur Rank",
+    "meaning": "Wank (masturbate)"
+  },
+  {
+    "phrase": "Jack & Danny",
+    "meaning": "Fanny"
+  },
+  {
+    "phrase": "Jack & Jill",
+    "meaning": "Till (Cash Register)"
+  },
+  {
+    "phrase": "Jack an'Dandy",
+    "meaning": "Handy"
+  },
+  {
+    "phrase": "Jack and Danny",
+    "meaning": "Fanny"
+  },
+  {
+    "phrase": "Jack And Jill",
+    "meaning": "Bill (Statement)"
+  },
+  {
+    "phrase": "Jack And Jill",
+    "meaning": "Hill"
+  },
+  {
+    "phrase": "Jack And Jill",
+    "meaning": "Pill (birth control)"
+  },
+  {
+    "phrase": "Jack and Jill",
+    "meaning": "Till"
+  },
+  {
+    "phrase": "Jack Dee",
+    "meaning": "Pee"
+  },
+  {
+    "phrase": "Jack Jones",
+    "meaning": "Alone"
+  },
+  {
+    "phrase": "Jack Jones",
+    "meaning": "Own"
+  },
+  {
+    "phrase": "Jack 'n' Danny",
+    "meaning": "Fanny"
+  },
+  {
+    "phrase": "Jack Palance",
+    "meaning": "Dance"
+  },
+  {
+    "phrase": "Jack Tar",
+    "meaning": "Bar (Pub)"
+  },
+  {
+    "phrase": "Jack The Dandy",
+    "meaning": "Brandy"
+  },
+  {
+    "phrase": "Jack The Ripper",
+    "meaning": "Kipper"
+  },
+  {
+    "phrase": "Jack the Ripper",
+    "meaning": "Stripper"
+  },
+  {
+    "phrase": "Jackanory",
+    "meaning": "Story/ Tall Tale"
+  },
+  {
+    "phrase": "Jackdaw",
+    "meaning": "Jaw"
+  },
+  {
+    "phrase": "Jackdaw And Rook",
+    "meaning": "Book"
+  },
+  {
+    "phrase": "Jackie Chan",
+    "meaning": "Scran (food)"
+  },
+  {
+    "phrase": "Jack's Alive",
+    "meaning": "Five"
+  },
+  {
+    "phrase": "Jackson Pollock",
+    "meaning": "Bollocks"
+  },
+  {
+    "phrase": "Jacobs Crackers",
+    "meaning": "Knackers (testicles)"
+  },
+  {
+    "phrase": "Jah Rule",
+    "meaning": "School"
+  },
+  {
+    "phrase": "Jakki Brambles",
+    "meaning": "Shambles"
+  },
+  {
+    "phrase": "Jam Jar",
+    "meaning": "Car"
+  },
+  {
+    "phrase": "Jam Roll",
+    "meaning": "Arsehole"
+  },
+  {
+    "phrase": "Jam Tart",
+    "meaning": "Heart"
+  },
+  {
+    "phrase": "Jam Tarts",
+    "meaning": "Sweethearts"
+  },
+  {
+    "phrase": "James Blunt",
+    "meaning": "cunt (derogatory)"
+  },
+  {
+    "phrase": "James Dean",
+    "meaning": "Obscene"
+  },
+  {
+    "phrase": "James Fox",
+    "meaning": "Box"
+  },
+  {
+    "phrase": "Jamie Redknapp",
+    "meaning": "Crap"
+  },
+  {
+    "phrase": "Jam-jar",
+    "meaning": "Car"
+  },
+  {
+    "phrase": "Janet Street-Porter",
+    "meaning": "Quarter (a weight of drugs)"
+  },
+  {
+    "phrase": "Jayme Gibbs",
+    "meaning": ""
+  },
+  {
+    "phrase": "Jazz Bands",
+    "meaning": "Hands"
+  },
+  {
+    "phrase": "Jeckyll and Hyde",
+    "meaning": "Snide"
+  },
+  {
+    "phrase": "Jekyll and Hyde",
+    "meaning": "Pride"
+  },
+  {
+    "phrase": "Jekyll and Hydes",
+    "meaning": "Strides (trousers)"
+  },
+  {
+    "phrase": "Jenny Lee",
+    "meaning": "Flea"
+  },
+  {
+    "phrase": "Jenny Lee",
+    "meaning": "Key"
+  },
+  {
+    "phrase": "Jeremiah",
+    "meaning": "Fire"
+  },
+  {
+    "phrase": "Jerry Cottle",
+    "meaning": "Bottle"
+  },
+  {
+    "phrase": "Jerry O'Gorman",
+    "meaning": "Mormon"
+  },
+  {
+    "phrase": "Jim Skinner",
+    "meaning": "Dinner"
+  },
+  {
+    "phrase": "Jiminee Cricket",
+    "meaning": "Ticket"
+  },
+  {
+    "phrase": "Jimmy Hill",
+    "meaning": "Bill (statement)"
+  },
+  {
+    "phrase": "Jimmy Hill",
+    "meaning": "Ill"
+  },
+  {
+    "phrase": "Jimmy Hill",
+    "meaning": "Pill"
+  },
+  {
+    "phrase": "Jimmy O'Goblin",
+    "meaning": "Sovereign"
+  },
+  {
+    "phrase": "Jimmy Orner",
+    "meaning": "Corner"
+  },
+  {
+    "phrase": "Jimmy Riddle",
+    "meaning": "Riddle (urinate)"
+  },
+  {
+    "phrase": "Joanna",
+    "meaning": "Piano (pronouced \"pianna\" in Cockney)"
+  },
+  {
+    "phrase": "Jockey Whips",
+    "meaning": "Chips"
+  },
+  {
+    "phrase": "Jockey's Whip",
+    "meaning": "Kip"
+  },
+  {
+    "phrase": "Jodrell Bank",
+    "meaning": "Wank"
+  },
+  {
+    "phrase": "Joe Baxi",
+    "meaning": "Taxi"
+  },
+  {
+    "phrase": "Joe Blake",
+    "meaning": "Snake"
+  },
+  {
+    "phrase": "Joe Blake",
+    "meaning": "Steak"
+  },
+  {
+    "phrase": "Joe Brown",
+    "meaning": "Town"
+  },
+  {
+    "phrase": "Joe Goss",
+    "meaning": "Boss"
+  },
+  {
+    "phrase": "Joe Hook",
+    "meaning": "Book"
+  },
+  {
+    "phrase": "Joe Rook",
+    "meaning": "Crook (criminal)"
+  },
+  {
+    "phrase": "Joe Soap",
+    "meaning": "Dope / Stupid Person"
+  },
+  {
+    "phrase": "John Cleese",
+    "meaning": "Cheese"
+  },
+  {
+    "phrase": "John Cleese",
+    "meaning": "Keys"
+  },
+  {
+    "phrase": "John Cleese",
+    "meaning": "Peas"
+  },
+  {
+    "phrase": "John Hop",
+    "meaning": "Cop (Police)"
+  },
+  {
+    "phrase": "John Major",
+    "meaning": "Pager"
+  },
+  {
+    "phrase": "John Major",
+    "meaning": "Wager"
+  },
+  {
+    "phrase": "John O'Groat",
+    "meaning": "Throat"
+  },
+  {
+    "phrase": "John Skinner",
+    "meaning": "Dinner"
+  },
+  {
+    "phrase": "John Wayne",
+    "meaning": "Train"
+  },
+  {
+    "phrase": "Johnnie Rutter",
+    "meaning": "Butter"
+  },
+  {
+    "phrase": "Johnnie Mutter",
+    "meaning": "Butter"
+  },
+  {
+    "phrase": "Johnny Vaughn",
+    "meaning": "Porn"
+  },
+  {
+    "phrase": "Johnny Vaughn",
+    "meaning": "Yawn"
+  },
+  {
+    "phrase": "Judge Jules",
+    "meaning": "Tools"
+  },
+  {
+    "phrase": "Julian Clary",
+    "meaning": "Fairy"
+  },
+  {
+    "phrase": "Julius Caesar",
+    "meaning": "Greek"
+  },
+  {
+    "phrase": "Jumping Jack",
+    "meaning": "Back"
+  },
+  {
+    "phrase": "Kareem Abdul Jabbar",
+    "meaning": "Car"
+  },
+  {
+    "phrase": "Kate",
+    "meaning": "Steak"
+  },
+  {
+    "phrase": "Kate and Sydney",
+    "meaning": "Steak and Kidney"
+  },
+  {
+    "phrase": "Kate Karney",
+    "meaning": "Army"
+  },
+  {
+    "phrase": "Kate Moss",
+    "meaning": "Toss"
+  },
+  {
+    "phrase": "Kate Moss-ed",
+    "meaning": "Lost"
+  },
+  {
+    "phrase": "Kate Mossed it",
+    "meaning": "Lost it"
+  },
+  {
+    "phrase": "Kathy Burke",
+    "meaning": "Work"
+  },
+  {
+    "phrase": "Keith (Chegwin)",
+    "meaning": "Pregnant"
+  },
+  {
+    "phrase": "Keith Deller",
+    "meaning": "Stella (Artois)"
+  },
+  {
+    "phrase": "Ken Boon",
+    "meaning": "4 Door Saloon"
+  },
+  {
+    "phrase": "Ken Dodd",
+    "meaning": "Wad"
+  },
+  {
+    "phrase": "Ken Smee",
+    "meaning": "Pee"
+  },
+  {
+    "phrase": "Kermit",
+    "meaning": "Road"
+  },
+  {
+    "phrase": "Kermit the Frog",
+    "meaning": "Bog"
+  },
+  {
+    "phrase": "Kerry Packer",
+    "meaning": "Knackered (tired)"
+  },
+  {
+    "phrase": "Kettle On The Hob",
+    "meaning": "Fog (Watch)"
+  },
+  {
+    "phrase": "Kevin Keegan",
+    "meaning": "Vegan"
+  },
+  {
+    "phrase": "Khyber Pass",
+    "meaning": "Arse"
+  },
+  {
+    "phrase": "Khyber Pass",
+    "meaning": "Glass"
+  },
+  {
+    "phrase": "Kick and Prance",
+    "meaning": "Dance"
+  },
+  {
+    "phrase": "Kick Start",
+    "meaning": "Tart"
+  },
+  {
+    "phrase": "Kidney Punch",
+    "meaning": "Lunch"
+  },
+  {
+    "phrase": "Kilkenny",
+    "meaning": "Penny"
+  },
+  {
+    "phrase": "King Death",
+    "meaning": "Breath"
+  },
+  {
+    "phrase": "King Lear",
+    "meaning": "Ear"
+  },
+  {
+    "phrase": "King Lear",
+    "meaning": "Queer (homosexual)"
+  },
+  {
+    "phrase": "King Lears",
+    "meaning": "Ears"
+  },
+  {
+    "phrase": "King Tut",
+    "meaning": "Gut"
+  },
+  {
+    "phrase": "Kingdom Come",
+    "meaning": "Burn"
+  },
+  {
+    "phrase": "King's Death",
+    "meaning": "Breath"
+  },
+  {
+    "phrase": "Kippers",
+    "meaning": "Slippers"
+  },
+  {
+    "phrase": "Kitchen Sink",
+    "meaning": "Click (jail)"
+  },
+  {
+    "phrase": "Kitchen Sink",
+    "meaning": "Drink"
+  },
+  {
+    "phrase": "Kite",
+    "meaning": "Cheque"
+  },
+  {
+    "phrase": "Knobbly Knees",
+    "meaning": "Keys"
+  },
+  {
+    "phrase": "Kungfu Fighter",
+    "meaning": "Lighter"
+  },
+  {
+    "phrase": "Kuwaiti Tanker",
+    "meaning": "Wanker"
+  },
+  {
+    "phrase": "La-Di-Da",
+    "meaning": "Cigar"
+  },
+  {
+    "phrase": "La-Di-Da",
+    "meaning": "Star"
+  },
+  {
+    "phrase": "Lady from Bristol",
+    "meaning": "Pistol"
+  },
+  {
+    "phrase": "Lady Godiva",
+    "meaning": "Fiver (Five Pound Note)"
+  },
+  {
+    "phrase": "Lager and Lime",
+    "meaning": "Spine"
+  },
+  {
+    "phrase": "Lamb & Mint",
+    "meaning": "Skint"
+  },
+  {
+    "phrase": "Lards",
+    "meaning": "Trousers"
+  },
+  {
+    "phrase": "Last Card in the Pack",
+    "meaning": "Sack"
+  },
+  {
+    "phrase": "Laugh And Titter",
+    "meaning": "Bitter (Beer)"
+  },
+  {
+    "phrase": "Laugh on a joke",
+    "meaning": "Smoke"
+  },
+  {
+    "phrase": "Lee Marvin",
+    "meaning": "Starvin'"
+  },
+  {
+    "phrase": "Left In The Lurch",
+    "meaning": "Church"
+  },
+  {
+    "phrase": "Legs",
+    "meaning": "11"
+  },
+  {
+    "phrase": "Lemon And Lime",
+    "meaning": "Crime"
+  },
+  {
+    "phrase": "Lemon Curd",
+    "meaning": "Girlfriend"
+  },
+  {
+    "phrase": "Lemon Dash",
+    "meaning": "Flash"
+  },
+  {
+    "phrase": "Lemon Lime",
+    "meaning": "Crime"
+  },
+  {
+    "phrase": "Lemon Squeesy",
+    "meaning": "Easy"
+  },
+  {
+    "phrase": "Lemon Squeezer",
+    "meaning": "Geezer"
+  },
+  {
+    "phrase": "Lemonade",
+    "meaning": "Spade"
+  },
+  {
+    "phrase": "Leo Fender",
+    "meaning": "Bender (homosexual)"
+  },
+  {
+    "phrase": "Leo Sayer",
+    "meaning": "All-dayer (Drinking Session)"
+  },
+  {
+    "phrase": "Lesley Crowthers",
+    "meaning": "Trousers"
+  },
+  {
+    "phrase": "Lester Piggot",
+    "meaning": "Bigot"
+  },
+  {
+    "phrase": "Light and Bitter",
+    "meaning": "Shitter"
+  },
+  {
+    "phrase": "Light and Dark",
+    "meaning": "Park"
+  },
+  {
+    "phrase": "Lilley And Skinner",
+    "meaning": "Dinner"
+  },
+  {
+    "phrase": "Lillian Gish",
+    "meaning": "Fish"
+  },
+  {
+    "phrase": "Lillian Gish",
+    "meaning": "Pish"
+  },
+  {
+    "phrase": "Linda Lusardi",
+    "meaning": "Cardy (cardigan)"
+  },
+  {
+    "phrase": "Linen Draper",
+    "meaning": "Newspapers"
+  },
+  {
+    "phrase": "Ling and Linger",
+    "meaning": "Ring on Finger"
+  },
+  {
+    "phrase": "Lionel Bart",
+    "meaning": "Fart"
+  },
+  {
+    "phrase": "Lionel Bart",
+    "meaning": "Tart"
+  },
+  {
+    "phrase": "Lionel Blaire",
+    "meaning": "Flares (wide bottom trousers)"
+  },
+  {
+    "phrase": "Lionel Blaire",
+    "meaning": "Nightmare"
+  },
+  {
+    "phrase": "Lion's Lair",
+    "meaning": "Chair"
+  },
+  {
+    "phrase": "Little and Large",
+    "meaning": "Marge"
+  },
+  {
+    "phrase": "Little Critter",
+    "meaning": "Bullshitter"
+  },
+  {
+    "phrase": "Little White Mice",
+    "meaning": "Dice"
+  },
+  {
+    "phrase": "Liz Hurley",
+    "meaning": "Early"
+  },
+  {
+    "phrase": "Liza Minelli",
+    "meaning": "Telly (TV)"
+  },
+  {
+    "phrase": "Loaf of Bread",
+    "meaning": "Head"
+  },
+  {
+    "phrase": "Lollipop",
+    "meaning": "Shop"
+  },
+  {
+    "phrase": "Long Un",
+    "meaning": "1000"
+  },
+  {
+    "phrase": "Longers And Lingers",
+    "meaning": "Fingers"
+  },
+  {
+    "phrase": "Loop de Loop",
+    "meaning": "Soup"
+  },
+  {
+    "phrase": "Lord Lovell",
+    "meaning": "Shovel"
+  },
+  {
+    "phrase": "Lord Mayor",
+    "meaning": "Swear"
+  },
+  {
+    "phrase": "Lord Of The Manor",
+    "meaning": "Tanner (Sixpence)"
+  },
+  {
+    "phrase": "Lords and Peers",
+    "meaning": "Ears"
+  },
+  {
+    "phrase": "Louise Wener",
+    "meaning": "Tenner (10 pound note)"
+  },
+  {
+    "phrase": "Lousy Brown",
+    "meaning": "Crown"
+  },
+  {
+    "phrase": "Love and Kisses",
+    "meaning": "Missus (Mrs)"
+  },
+  {
+    "phrase": "L-Rig",
+    "meaning": "Girl"
+  },
+  {
+    "phrase": "Lucy Locket",
+    "meaning": "Pocket"
+  },
+  {
+    "phrase": "Lump of Ice",
+    "meaning": "Advice"
+  },
+  {
+    "phrase": "Lump Of Lead",
+    "meaning": "Head"
+  },
+  {
+    "phrase": "Lump of School",
+    "meaning": "Fool"
+  },
+  {
+    "phrase": "Macaroni",
+    "meaning": "Pony (Twenty-Five Pounds)"
+  },
+  {
+    "phrase": "Macca Crap",
+    "meaning": ""
+  },
+  {
+    "phrase": "Mae West",
+    "meaning": "Best"
+  },
+  {
+    "phrase": "Magnus Pike",
+    "meaning": "Dyke (Lesbian)"
+  },
+  {
+    "phrase": "Mahatma Ghandi",
+    "meaning": "Randy"
+  },
+  {
+    "phrase": "Major Loda",
+    "meaning": "Soda"
+  },
+  {
+    "phrase": "Major Stevens",
+    "meaning": "Evens (Fifty-fifty Bet)"
+  },
+  {
+    "phrase": "Major Stevens",
+    "meaning": "Evens (betting)"
+  },
+  {
+    "phrase": "Man On The Moon",
+    "meaning": "Spoon"
+  },
+  {
+    "phrase": "Manchester Scally",
+    "meaning": "Rally"
+  },
+  {
+    "phrase": "Mangle And Wringer",
+    "meaning": "Singer"
+  },
+  {
+    "phrase": "Manhole Cover",
+    "meaning": "Brother"
+  },
+  {
+    "phrase": "Marbles (marbles and conkers)",
+    "meaning": "Bonkers (Mad)"
+  },
+  {
+    "phrase": "Mark Ramprakash",
+    "meaning": "Slash"
+  },
+  {
+    "phrase": "Mars Bar",
+    "meaning": "Scar"
+  },
+  {
+    "phrase": "Master McGrath",
+    "meaning": "Bra"
+  },
+  {
+    "phrase": "Matheson Lang",
+    "meaning": "Slang (Cockney Rhyming)"
+  },
+  {
+    "phrase": "Mavis Fritter",
+    "meaning": "Shitter"
+  },
+  {
+    "phrase": "Me and You",
+    "meaning": "Menu"
+  },
+  {
+    "phrase": "Melvyn Bragged",
+    "meaning": "Shagged"
+  },
+  {
+    "phrase": "Melvyn Bragg",
+    "meaning": "Fag (Cigarette)"
+  },
+  {
+    "phrase": "Merchant Banker",
+    "meaning": "Wanker"
+  },
+  {
+    "phrase": "Merlyn Rees",
+    "meaning": "Piece (Lunch)"
+  },
+  {
+    "phrase": "Merry Old Soul",
+    "meaning": "Arsehole"
+  },
+  {
+    "phrase": "Merry-go-round",
+    "meaning": "Pound"
+  },
+  {
+    "phrase": "Merryheart",
+    "meaning": "Tart"
+  },
+  {
+    "phrase": "Meryl Streep",
+    "meaning": "Cheap"
+  },
+  {
+    "phrase": "Meryl Streep",
+    "meaning": "Sleep"
+  },
+  {
+    "phrase": "Metric Miles",
+    "meaning": "Piles (Haemorrhoids)"
+  },
+  {
+    "phrase": "Michael Caine",
+    "meaning": "Train"
+  },
+  {
+    "phrase": "Michael Caines",
+    "meaning": "Stains"
+  },
+  {
+    "phrase": "Michael Miles",
+    "meaning": "Piles"
+  },
+  {
+    "phrase": "Michael Winner",
+    "meaning": "Dinner"
+  },
+  {
+    "phrase": "Mick Jagger",
+    "meaning": "Lagger"
+  },
+  {
+    "phrase": "Mick Mills",
+    "meaning": "Pills"
+  },
+  {
+    "phrase": "Mickey Bliss",
+    "meaning": "Piss (urinate)"
+  },
+  {
+    "phrase": "Mickey Duff",
+    "meaning": "Puff (marijuana)"
+  },
+  {
+    "phrase": "Mickey Most",
+    "meaning": "Toast"
+  },
+  {
+    "phrase": "Mickey Mouse",
+    "meaning": "House"
+  },
+  {
+    "phrase": "Mickey Mouse",
+    "meaning": "Scouse (Liverpudlian)"
+  },
+  {
+    "phrase": "Mickey Rourke",
+    "meaning": "Pork"
+  },
+  {
+    "phrase": "Micro Chip",
+    "meaning": "Nip"
+  },
+  {
+    "phrase": "Midland Bank",
+    "meaning": "Wank (masturbate)"
+  },
+  {
+    "phrase": "Mikkel Becks",
+    "meaning": "Specs (spectacles)"
+  },
+  {
+    "phrase": "Milton Keynes",
+    "meaning": "Jeans"
+  },
+  {
+    "phrase": "Mince Pies",
+    "meaning": "Eyes"
+  },
+  {
+    "phrase": "Moby Dick",
+    "meaning": "Sick"
+  },
+  {
+    "phrase": "Molly O'Morgan",
+    "meaning": "Organ"
+  },
+  {
+    "phrase": "Monkey",
+    "meaning": "500"
+  },
+  {
+    "phrase": "Monkey Wrench",
+    "meaning": "Wench"
+  },
+  {
+    "phrase": "Monkey's Cousin",
+    "meaning": "Dozen"
+  },
+  {
+    "phrase": "Monkey's Tail",
+    "meaning": "Nail"
+  },
+  {
+    "phrase": "Moody",
+    "meaning": "Stolen"
+  },
+  {
+    "phrase": "Morecambe And Wise",
+    "meaning": "Flies"
+  },
+  {
+    "phrase": "Moriarty",
+    "meaning": "Party"
+  },
+  {
+    "phrase": "Mork and Mindy",
+    "meaning": "Windy"
+  },
+  {
+    "phrase": "Mortar and Trowel",
+    "meaning": "Towel"
+  },
+  {
+    "phrase": "Mother Hubbard",
+    "meaning": "Cupboard"
+  },
+  {
+    "phrase": "Mother Of Pearl",
+    "meaning": "Girl"
+  },
+  {
+    "phrase": "Mother's Ruin",
+    "meaning": "Gin"
+  },
+  {
+    "phrase": "Mozambique",
+    "meaning": "Keek"
+  },
+  {
+    "phrase": "Mozzle and brocha",
+    "meaning": "On the knocker"
+  },
+  {
+    "phrase": "Mrs. Chant",
+    "meaning": "Aunt"
+  },
+  {
+    "phrase": "Mrs. Duckett",
+    "meaning": "Bucket"
+  },
+  {
+    "phrase": "Mum and Dad",
+    "meaning": "Mad"
+  },
+  {
+    "phrase": "Mumbley Pegs",
+    "meaning": "Legs"
+  },
+  {
+    "phrase": "Murray Walker",
+    "meaning": "Talker"
+  },
+  {
+    "phrase": "Murray Mint",
+    "meaning": "Skint"
+  },
+  {
+    "phrase": "Mutt and Jeff",
+    "meaning": "Deaf"
+  },
+  {
+    "phrase": "Mutter and Stutter",
+    "meaning": "Butter"
+  },
+  {
+    "phrase": "Mystic Megs",
+    "meaning": "Legs"
+  },
+  {
+    "phrase": "Nails and Tacks",
+    "meaning": "Fax"
+  },
+  {
+    "phrase": "Nanny Goat",
+    "meaning": "Boat"
+  },
+  {
+    "phrase": "Nanny Goat",
+    "meaning": "Coat"
+  },
+  {
+    "phrase": "Nanny Goat",
+    "meaning": "Throat"
+  },
+  {
+    "phrase": "Nat King Cole",
+    "meaning": "Dole (welfare)"
+  },
+  {
+    "phrase": "Natter",
+    "meaning": "Chat"
+  },
+  {
+    "phrase": "Near and Far",
+    "meaning": "Bar (Pub)"
+  },
+  {
+    "phrase": "Ned Kelly",
+    "meaning": "Telly (Television)"
+  },
+  {
+    "phrase": "Needle and Pin",
+    "meaning": "Gin"
+  },
+  {
+    "phrase": "Nelly Duff",
+    "meaning": "Puff (life)"
+  },
+  {
+    "phrase": "Nelson Eddy's",
+    "meaning": "Readies (Ready Money)"
+  },
+  {
+    "phrase": "Nelson Mandella",
+    "meaning": "Stella (beer)"
+  },
+  {
+    "phrase": "Nena",
+    "meaning": "99"
+  },
+  {
+    "phrase": "Nervo",
+    "meaning": "9"
+  },
+  {
+    "phrase": "Nervo and Knox",
+    "meaning": "Box"
+  },
+  {
+    "phrase": "Nervo and Knox",
+    "meaning": "Pox"
+  },
+  {
+    "phrase": "Nervous Wreck",
+    "meaning": "Cheque"
+  },
+  {
+    "phrase": "Neves",
+    "meaning": "7"
+  },
+  {
+    "phrase": "New Delhi",
+    "meaning": "Belly"
+  },
+  {
+    "phrase": "Newgate Gaol",
+    "meaning": "Tale"
+  },
+  {
+    "phrase": "Newington Butts",
+    "meaning": "Guts"
+  },
+  {
+    "phrase": "Niagara Falls",
+    "meaning": "Balls (testicle)"
+  },
+  {
+    "phrase": "Niffty",
+    "meaning": "50"
+  },
+  {
+    "phrase": "Nifty n Frifty",
+    "meaning": "Shifty"
+  },
+  {
+    "phrase": "Nightboar to Cairo",
+    "meaning": "Giro"
+  },
+  {
+    "phrase": "Nix",
+    "meaning": "86"
+  },
+  {
+    "phrase": "Nix/Nixies",
+    "meaning": "Nothing"
+  },
+  {
+    "phrase": "No Surrenders",
+    "meaning": "Suspenders"
+  },
+  {
+    "phrase": "Noah's Ark",
+    "meaning": "Lark"
+  },
+  {
+    "phrase": "Noah's Ark",
+    "meaning": "Nark"
+  },
+  {
+    "phrase": "Noah's Ark",
+    "meaning": "Park"
+  },
+  {
+    "phrase": "Noah's Ark",
+    "meaning": "Shark"
+  },
+  {
+    "phrase": "Nobby Stiles",
+    "meaning": "Piles (hemorrhoids)"
+  },
+  {
+    "phrase": "Norman Watts",
+    "meaning": "Pots"
+  },
+  {
+    "phrase": "North and South",
+    "meaning": "Mouth"
+  },
+  {
+    "phrase": "Nose and Chin",
+    "meaning": "Gin"
+  },
+  {
+    "phrase": "Nuclear Sub",
+    "meaning": "Pub"
+  },
+  {
+    "phrase": "Nuns 'n Habits",
+    "meaning": "Rabbits"
+  },
+  {
+    "phrase": "Nuremberg Trials",
+    "meaning": "Piles (Haemorrhoids)"
+  },
+  {
+    "phrase": "Nutmegs",
+    "meaning": "Legs"
+  },
+  {
+    "phrase": "Obadiah",
+    "meaning": "Fire"
+  },
+  {
+    "phrase": "Ocean Going Squid",
+    "meaning": "Quid"
+  },
+  {
+    "phrase": "Ocean",
+    "meaning": "Mate"
+  },
+  {
+    "phrase": "Ocean Pearl",
+    "meaning": "Girl"
+  },
+  {
+    "phrase": "Ocean Wave",
+    "meaning": "Shave"
+  },
+  {
+    "phrase": "Oedipus Rex",
+    "meaning": "Sex"
+  },
+  {
+    "phrase": "Oily Rag",
+    "meaning": "Fag (Cigarette)"
+  },
+  {
+    "phrase": "Okey Doke",
+    "meaning": "Poke"
+  },
+  {
+    "phrase": "Old Bag",
+    "meaning": "Hag (Horrible Woman)"
+  },
+  {
+    "phrase": "Old Bill",
+    "meaning": "Police"
+  },
+  {
+    "phrase": "Old Pot and Pan",
+    "meaning": "Old Man"
+  },
+  {
+    "phrase": "Oliver Twist",
+    "meaning": "pissed (drunk)"
+  },
+  {
+    "phrase": "Oliver Twist",
+    "meaning": "Fist"
+  },
+  {
+    "phrase": "Oliver Twist",
+    "meaning": "Fist"
+  },
+  {
+    "phrase": "Oliver Twist",
+    "meaning": "Wrist"
+  },
+  {
+    "phrase": "Omar Sharif",
+    "meaning": "Grief"
+  },
+  {
+    "phrase": "On The Floor",
+    "meaning": "Poor"
+  },
+  {
+    "phrase": "Once a week",
+    "meaning": "Beak"
+  },
+  {
+    "phrase": "Once a week",
+    "meaning": "cheek"
+  },
+  {
+    "phrase": "One And the Other",
+    "meaning": "Brother"
+  },
+  {
+    "phrase": "One Time Looker",
+    "meaning": "Hooker"
+  },
+  {
+    "phrase": "Ones and Twos",
+    "meaning": "Shoes"
+  },
+  {
+    "phrase": "Ooh Aah",
+    "meaning": "Stella Artois (beer)"
+  },
+  {
+    "phrase": "Orange Peel",
+    "meaning": "Feel"
+  },
+  {
+    "phrase": "Orchestra Stalls",
+    "meaning": "Balls (testicles)"
+  },
+  {
+    "phrase": "Oscar Asche",
+    "meaning": "Cash"
+  },
+  {
+    "phrase": "Outings and Festivals",
+    "meaning": "Testicles"
+  },
+  {
+    "phrase": "Oxford Scholar",
+    "meaning": "Dollar (Five Shillings)"
+  },
+  {
+    "phrase": "Oxo Cube",
+    "meaning": "Tube (Underground Railway)"
+  },
+  {
+    "phrase": "Pam Shriver",
+    "meaning": "Fiver"
+  },
+  {
+    "phrase": "Pants and Vest",
+    "meaning": "Chest"
+  },
+  {
+    "phrase": "Paper Hat",
+    "meaning": "Prat"
+  },
+  {
+    "phrase": "Paraffin Lamp",
+    "meaning": "Tramp"
+  },
+  {
+    "phrase": "Pat and Mick",
+    "meaning": "Sick"
+  },
+  {
+    "phrase": "Pat Cash",
+    "meaning": "Slash"
+  },
+  {
+    "phrase": "Pat Malone",
+    "meaning": "Alone"
+  },
+  {
+    "phrase": "Pat Malone",
+    "meaning": "Own (Alone)"
+  },
+  {
+    "phrase": "Paul Cousins",
+    "meaning": "Baker's dozens"
+  },
+  {
+    "phrase": "Paul McKenna",
+    "meaning": "Tenner (Â£10)"
+  },
+  {
+    "phrase": "Paul Weller",
+    "meaning": "Stella (beer)"
+  },
+  {
+    "phrase": "Pea Shooter",
+    "meaning": "Hooter (nose)"
+  },
+  {
+    "phrase": "Peanut Butter and Jelly",
+    "meaning": "Belly"
+  },
+  {
+    "phrase": "Pear Halved",
+    "meaning": "Starved"
+  },
+  {
+    "phrase": "Pearly Queen",
+    "meaning": "Seen"
+  },
+  {
+    "phrase": "Peas in The Pot",
+    "meaning": "Hot"
+  },
+  {
+    "phrase": "Peckham (Peckham Rye)",
+    "meaning": "Tie"
+  },
+  {
+    "phrase": "Peddle and Crank",
+    "meaning": "Wank (masturbate)"
+  },
+  {
+    "phrase": "Pen and Ink",
+    "meaning": "stink (smell)"
+  },
+  {
+    "phrase": "Penny-A-Pound",
+    "meaning": "Ground"
+  },
+  {
+    "phrase": "Perpetual Loser",
+    "meaning": "Boozer"
+  },
+  {
+    "phrase": "Persian Rugs",
+    "meaning": "Drugs"
+  },
+  {
+    "phrase": "Pete Tong",
+    "meaning": "Wrong"
+  },
+  {
+    "phrase": "Peter Pan",
+    "meaning": "Can (Prison or Wall Safe)"
+  },
+  {
+    "phrase": "Peter Pan",
+    "meaning": "Tan"
+  },
+  {
+    "phrase": "Peter Powell",
+    "meaning": "Towel"
+  },
+  {
+    "phrase": "Petrol Tanks",
+    "meaning": "Yanks"
+  },
+  {
+    "phrase": "Philharmonic",
+    "meaning": "Gin and Tonic"
+  },
+  {
+    "phrase": "Picadilly",
+    "meaning": "Silly"
+  },
+  {
+    "phrase": "Piccolo and Flute",
+    "meaning": "Suit"
+  },
+  {
+    "phrase": "Pick and Mix",
+    "meaning": "Sticks (Countryside)"
+  },
+  {
+    "phrase": "Pie and Apple Chunk",
+    "meaning": "Drunk"
+  },
+  {
+    "phrase": "Pie and Liquor",
+    "meaning": "Vicar"
+  },
+  {
+    "phrase": "Pie and Mash",
+    "meaning": "Flash"
+  },
+  {
+    "phrase": "Pie and Mash",
+    "meaning": "Slash (piss)"
+  },
+  {
+    "phrase": "Pieces of Eight",
+    "meaning": "Weight"
+  },
+  {
+    "phrase": "Pig's Ear",
+    "meaning": "Beer"
+  },
+  {
+    "phrase": "Pillar and Post",
+    "meaning": "Ghost"
+  },
+  {
+    "phrase": "Pillar and Post",
+    "meaning": "Host"
+  },
+  {
+    "phrase": "Pimple and Botch",
+    "meaning": "Scotch"
+  },
+  {
+    "phrase": "Pineapple",
+    "meaning": "Chapel"
+  },
+  {
+    "phrase": "Pineapple Chunk",
+    "meaning": "Bunk"
+  },
+  {
+    "phrase": "Ping Pong",
+    "meaning": "Strong"
+  },
+  {
+    "phrase": "Pinky and Perky",
+    "meaning": "Turkey"
+  },
+  {
+    "phrase": "Pins & Pegs",
+    "meaning": "Legs"
+  },
+  {
+    "phrase": "Pipe and Drum",
+    "meaning": "Bum"
+  },
+  {
+    "phrase": "Pipe Your Eye",
+    "meaning": "Cry"
+  },
+  {
+    "phrase": "Pitch And Toss",
+    "meaning": "Boss"
+  },
+  {
+    "phrase": "Pittsburgh Steelers",
+    "meaning": "Peelers (Police)"
+  },
+  {
+    "phrase": "Planet of the Apes",
+    "meaning": "Grapes"
+  },
+  {
+    "phrase": "Plaster",
+    "meaning": "Arse"
+  },
+  {
+    "phrase": "Plates And Sishes",
+    "meaning": "Missus"
+  },
+  {
+    "phrase": "Plates of Meat",
+    "meaning": "Feet"
+  },
+  {
+    "phrase": "Pleasure and Pain",
+    "meaning": "Rain"
+  },
+  {
+    "phrase": "Plimsoll Mark",
+    "meaning": "Park"
+  },
+  {
+    "phrase": "Plink Plonk",
+    "meaning": "Vin Blanc (Wine)"
+  },
+  {
+    "phrase": "Polo Mint",
+    "meaning": "Bint"
+  },
+  {
+    "phrase": "Pony and Trap",
+    "meaning": "Crap (sort of manure!)"
+  },
+  {
+    "phrase": "Pope in Rome",
+    "meaning": "Home"
+  },
+  {
+    "phrase": "Pope on the Rope",
+    "meaning": "Dope"
+  },
+  {
+    "phrase": "Poppy (poppy red)",
+    "meaning": "Bread"
+  },
+  {
+    "phrase": "Porcupine",
+    "meaning": "Wine"
+  },
+  {
+    "phrase": "Pork Chops",
+    "meaning": "Pigs (Police)"
+  },
+  {
+    "phrase": "Porky (pork pie)",
+    "meaning": "lie (fib)"
+  },
+  {
+    "phrase": "Porridge Knife",
+    "meaning": "Life (term)"
+  },
+  {
+    "phrase": "Port And Brandy",
+    "meaning": "Randy"
+  },
+  {
+    "phrase": "Posh 'n Becks",
+    "meaning": "Decks (turntables)"
+  },
+  {
+    "phrase": "Posh 'n Becks",
+    "meaning": "Sex"
+  },
+  {
+    "phrase": "Pot and Pan",
+    "meaning": "Old Man (Father)"
+  },
+  {
+    "phrase": "Pot Of Glue",
+    "meaning": "Clue"
+  },
+  {
+    "phrase": "Potatoes in the Mould (Taters)",
+    "meaning": "Cold"
+  },
+  {
+    "phrase": "Pots and Dishes",
+    "meaning": "Wishes"
+  },
+  {
+    "phrase": "Prairie Hat",
+    "meaning": "Prat"
+  },
+  {
+    "phrase": "Present and Past",
+    "meaning": "Last"
+  },
+  {
+    "phrase": "Prison Time",
+    "meaning": "Bird (Lime)"
+  },
+  {
+    "phrase": "Profit & Loss",
+    "meaning": "Boss"
+  },
+  {
+    "phrase": "Pull Down The Shutter",
+    "meaning": "Butter"
+  },
+  {
+    "phrase": "Rusty Nail",
+    "meaning": "Jail"
+  },
+  {
+    "phrase": "Russell Harty",
+    "meaning": "Party"
+  },
+  {
+    "phrase": "Ruof",
+    "meaning": "4"
+  },
+  {
+    "phrase": "Runner Beans",
+    "meaning": "Jeans"
+  },
+  {
+    "phrase": "Rum and Coke",
+    "meaning": "Joke"
+  },
+  {
+    "phrase": "Ruby Rose",
+    "meaning": "Nose"
+  },
+  {
+    "phrase": "Ruby Murray",
+    "meaning": "Curry"
+  },
+  {
+    "phrase": "Rubric's Cube",
+    "meaning": "Pube (pubic hair)"
+  },
+  {
+    "phrase": "Rubber/Rubber dub (Rub-a-dub-dub)",
+    "meaning": "Pub (or club)"
+  },
+  {
+    "phrase": "Rubber Glove",
+    "meaning": "Love"
+  },
+  {
+    "phrase": "Rubber Duck",
+    "meaning": "Cook"
+  },
+  {
+    "phrase": "Rubber Dub",
+    "meaning": "Sub, pay advance"
+  },
+  {
+    "phrase": "Rubber bands",
+    "meaning": "Hands"
+  },
+  {
+    "phrase": "Rub-a-Dub-Dub",
+    "meaning": "Pub"
+  },
+  {
+    "phrase": "Rub-a-Dub",
+    "meaning": "Club"
+  },
+  {
+    "phrase": "Roy Hudd's",
+    "meaning": "Spuds"
+  },
+  {
+    "phrase": "Round the Houses",
+    "meaning": "Trouser"
+  },
+  {
+    "phrase": "Rouf Cinque",
+    "meaning": "45"
+  },
+  {
+    "phrase": "Rosy Lee",
+    "meaning": "tea (drink)"
+  },
+  {
+    "phrase": "Rosie (Rosie Lee)",
+    "meaning": "tea ('cup of rosie')"
+  },
+  {
+    "phrase": "Rory O'Moore",
+    "meaning": "Door"
+  },
+  {
+    "phrase": "Rory O'Moore",
+    "meaning": "Floor"
+  },
+  {
+    "phrase": "Roof Rack",
+    "meaning": "Back"
+  },
+  {
+    "phrase": "Ronnie Barker",
+    "meaning": "Marker (Pen)"
+  },
+  {
+    "phrase": "Ronnie & Reggie(Kray)",
+    "meaning": "Veggie"
+  },
+  {
+    "phrase": "Ronald Riches",
+    "meaning": "Bitches"
+  },
+  {
+    "phrase": "Rolls Royce",
+    "meaning": "Voice"
+  },
+  {
+    "phrase": "Rolling Billows",
+    "meaning": "Pillows"
+  },
+  {
+    "phrase": "Roller Coaster",
+    "meaning": "Toaster"
+  },
+  {
+    "phrase": "Roland Joffe",
+    "meaning": "Coffee"
+  },
+  {
+    "phrase": "Roger's",
+    "meaning": "Roger Bannisters"
+  },
+  {
+    "phrase": "4 Minute Mile (s)",
+    "meaning": "Piles"
+  },
+  {
+    "phrase": "Roger Starling",
+    "meaning": "Carling (Beer)"
+  },
+  {
+    "phrase": "Roger Nellie",
+    "meaning": "Telly"
+  },
+  {
+    "phrase": "Roger Moore",
+    "meaning": "Door"
+  },
+  {
+    "phrase": "Rodney Marsh",
+    "meaning": "Harsh"
+  },
+  {
+    "phrase": "Rocking Horse",
+    "meaning": "Sauce"
+  },
+  {
+    "phrase": "Rockford Files",
+    "meaning": "Piles (hemorrhoids)"
+  },
+  {
+    "phrase": "Rock of Ages",
+    "meaning": "Wages"
+  },
+  {
+    "phrase": "Rock and Roll",
+    "meaning": "Dole"
+  },
+  {
+    "phrase": "Robinson Crusoe",
+    "meaning": "Do So"
+  },
+  {
+    "phrase": "Robinson And Cleaver",
+    "meaning": "Fever"
+  },
+  {
+    "phrase": "Robin Hood",
+    "meaning": "Good"
+  },
+  {
+    "phrase": "Rob Roy",
+    "meaning": "Boy"
+  },
+  {
+    "phrase": "Roath",
+    "meaning": "4"
+  },
+  {
+    "phrase": "Roast Pork",
+    "meaning": "Fork"
+  },
+  {
+    "phrase": "Road",
+    "meaning": "Frog and Toad"
+  },
+  {
+    "phrase": "River Ouse",
+    "meaning": "Booze (alcohol)"
+  },
+  {
+    "phrase": "Rio Grande",
+    "meaning": "1000"
+  },
+  {
+    "phrase": "Rink-a-dink",
+    "meaning": "Chink(Chinese)"
+  },
+  {
+    "phrase": "Rifles (short for rifle ranges)",
+    "meaning": "Changes"
+  },
+  {
+    "phrase": "Riff Raff",
+    "meaning": "CafÃ© (pronounced caff)"
+  },
+  {
+    "phrase": "Ricki Lake",
+    "meaning": ""
+  },
+  {
+    "phrase": "Rick Whitter",
+    "meaning": "Shitter (Toilet or rectum)"
+  },
+  {
+    "phrase": "Richard the Third",
+    "meaning": "Bird"
+  },
+  {
+    "phrase": "Richard the 3rd",
+    "meaning": "Turd"
+  },
+  {
+    "phrase": "Richard Burtons",
+    "meaning": "Curtains"
+  },
+  {
+    "phrase": "Rhythm n blues",
+    "meaning": "Shoes"
+  },
+  {
+    "phrase": "Rhubard Pill",
+    "meaning": "Hill"
+  },
+  {
+    "phrase": "Rex Mossop",
+    "meaning": "Gossip"
+  },
+  {
+    "phrase": "Reg Varney",
+    "meaning": "Pakistani"
+  },
+  {
+    "phrase": "Reg Grundies",
+    "meaning": "Undies"
+  },
+  {
+    "phrase": "Reels of Cotton",
+    "meaning": "Rotten"
+  },
+  {
+    "phrase": "Red sock",
+    "meaning": "Dock"
+  },
+  {
+    "phrase": "Read and Write",
+    "meaning": "Fight"
+  },
+  {
+    "phrase": "Razzmatazz",
+    "meaning": "Jazz (evolved to mean general excitement)"
+  },
+  {
+    "phrase": "Razor",
+    "meaning": "Blazer"
+  },
+  {
+    "phrase": "Ravi Shanker",
+    "meaning": "Wanker"
+  },
+  {
+    "phrase": "Rattle and clank",
+    "meaning": "Bank"
+  },
+  {
+    "phrase": "Rats and mice",
+    "meaning": "Dice"
+  },
+  {
+    "phrase": "Rat and mouse",
+    "meaning": "House"
+  },
+  {
+    "phrase": "Raspberry Tart",
+    "meaning": "Fart (blowing raspberries)"
+  },
+  {
+    "phrase": "Raspberry Tart",
+    "meaning": "Heart"
+  },
+  {
+    "phrase": "Raspberry Ripple",
+    "meaning": "Nipple"
+  },
+  {
+    "phrase": "Raspberry Rippe",
+    "meaning": "Cripple"
+  },
+  {
+    "phrase": "Rank and riches",
+    "meaning": "Breeches"
+  },
+  {
+    "phrase": "Randolph Scott",
+    "meaning": "Spot (acne)"
+  },
+  {
+    "phrase": "Rainbow Trout",
+    "meaning": "Kraut (German)"
+  },
+  {
+    "phrase": "Rag and Bone",
+    "meaning": "Throne (Toilet)"
+  },
+  {
+    "phrase": "Radio Rental",
+    "meaning": "Mental"
+  },
+  {
+    "phrase": "Radio Ones",
+    "meaning": "Runs (Diarrhoea)"
+  },
+  {
+    "phrase": "Rabbit and Pork",
+    "meaning": "Talk (Rabbit's too much)"
+  },
+  {
+    "phrase": "Syrup Of Figs",
+    "meaning": "Wigs"
+  },
+  {
+    "phrase": "Syrup (short for syrup of figs)",
+    "meaning": "Wig (sick)"
+  },
+  {
+    "phrase": "Sydney",
+    "meaning": "Kidney"
+  },
+  {
+    "phrase": "Sweeny Todd",
+    "meaning": "Flying Squad (Police)"
+  },
+  {
+    "phrase": "Sweaty Sock",
+    "meaning": "Jock (Scotsman)"
+  },
+  {
+    "phrase": "Swanee River",
+    "meaning": "Liver"
+  },
+  {
+    "phrase": "Surrey Docks",
+    "meaning": "Pox"
+  },
+  {
+    "phrase": "Supersonic",
+    "meaning": "Tonic"
+  },
+  {
+    "phrase": "Sunny South",
+    "meaning": "Mouth"
+  },
+  {
+    "phrase": "Sugar Candy",
+    "meaning": "Handy"
+  },
+  {
+    "phrase": "Sugar basin",
+    "meaning": "A marble mason"
+  },
+  {
+    "phrase": "Sugar and Honey",
+    "meaning": "Money"
+  },
+  {
+    "phrase": "Suez Canal",
+    "meaning": "Flannel"
+  },
+  {
+    "phrase": "Struggle and Grunt",
+    "meaning": "Cunt"
+  },
+  {
+    "phrase": "Strawberry Tart",
+    "meaning": "Heart"
+  },
+  {
+    "phrase": "Strawberry Split",
+    "meaning": "Git (twit)"
+  },
+  {
+    "phrase": "Strawberry Rhone",
+    "meaning": "Telephone"
+  },
+  {
+    "phrase": "Strange'n'Weird",
+    "meaning": "Beard"
+  },
+  {
+    "phrase": "Storm and Strife",
+    "meaning": "Wife"
+  },
+  {
+    "phrase": "Stop Thief",
+    "meaning": "Beef"
+  },
+  {
+    "phrase": "Stoke On Trent",
+    "meaning": "Bent (Criminal)"
+  },
+  {
+    "phrase": "Stinging Nettle",
+    "meaning": "Kettle"
+  },
+  {
+    "phrase": "Sticky Toffee",
+    "meaning": "Coffee"
+  },
+  {
+    "phrase": "Stewed Prune",
+    "meaning": "Tune"
+  },
+  {
+    "phrase": "Stevie",
+    "meaning": "Cinema"
+  },
+  {
+    "phrase": "Stevey Bould",
+    "meaning": "Cold"
+  },
+  {
+    "phrase": "Steve McQueens",
+    "meaning": "Jean's"
+  },
+  {
+    "phrase": "Steve McGarret",
+    "meaning": "50"
+  },
+  {
+    "phrase": "Steve Claridge",
+    "meaning": "Garage"
+  },
+  {
+    "phrase": "Stench",
+    "meaning": "Dame Judy (Dench)"
+  },
+  {
+    "phrase": "Steffi Graf",
+    "meaning": "Laugh"
+  },
+  {
+    "phrase": "Steam Tug",
+    "meaning": "Mug (fool)"
+  },
+  {
+    "phrase": "Steak & kidney",
+    "meaning": "Sydney"
+  },
+  {
+    "phrase": "Star's Nap",
+    "meaning": "Tap (Ask for a Loan)"
+  },
+  {
+    "phrase": "Stand to Attention",
+    "meaning": "Pension"
+  },
+  {
+    "phrase": "Stand at Ease",
+    "meaning": "Cheese"
+  },
+  {
+    "phrase": "Stammer and Stutter",
+    "meaning": "Butter"
+  },
+  {
+    "phrase": "St. Martins-Le-Grand",
+    "meaning": "Hand"
+  },
+  {
+    "phrase": "Sprarsy Anna",
+    "meaning": "Tanner (sixpence)"
+  },
+  {
+    "phrase": "Spotted Dick",
+    "meaning": "Sick"
+  },
+  {
+    "phrase": "Spiders & Bugs",
+    "meaning": "Thugs"
+  },
+  {
+    "phrase": "Spark and Smoulder",
+    "meaning": "Shoulder"
+  },
+  {
+    "phrase": "Spanish Archer",
+    "meaning": "Elbow"
+  },
+  {
+    "phrase": "Sovs",
+    "meaning": "Pounds (currency)"
+  },
+  {
+    "phrase": "Soup and Gravy",
+    "meaning": "Navy"
+  },
+  {
+    "phrase": "Sorry and Sad",
+    "meaning": "Bad"
+  },
+  {
+    "phrase": "Son 'n Daughter'd",
+    "meaning": "Slaughtered"
+  },
+  {
+    "phrase": "Soldier's Bold",
+    "meaning": "Cold"
+  },
+  {
+    "phrase": "Sock and blister",
+    "meaning": "Sister"
+  },
+  {
+    "phrase": "Soap",
+    "meaning": "Bob Hope"
+  },
+  {
+    "phrase": "Snow and Slush",
+    "meaning": "Flush"
+  },
+  {
+    "phrase": "Snout",
+    "meaning": "Cigarettes"
+  },
+  {
+    "phrase": "Snake's hiss",
+    "meaning": "Piss"
+  },
+  {
+    "phrase": "Slits in a Dress",
+    "meaning": "Mess"
+  },
+  {
+    "phrase": "Slay 'em in the aisles",
+    "meaning": "Piles (hemorrhoids)"
+  },
+  {
+    "phrase": "Sky Rocket",
+    "meaning": "Pocket"
+  },
+  {
+    "phrase": "Sky Diver",
+    "meaning": "Fiver"
+  },
+  {
+    "phrase": "Skin and Blister",
+    "meaning": "Sister"
+  },
+  {
+    "phrase": "Skein of Thread",
+    "meaning": "Bed"
+  },
+  {
+    "phrase": "Single Fish",
+    "meaning": "Pish"
+  },
+  {
+    "phrase": "Sinbad The Sailor",
+    "meaning": "Tailor"
+  },
+  {
+    "phrase": "Simon Said",
+    "meaning": "Dead"
+  },
+  {
+    "phrase": "Silver Spoon",
+    "meaning": "Coon"
+  },
+  {
+    "phrase": "Sigorney Weaver",
+    "meaning": "Beaver"
+  },
+  {
+    "phrase": "Sighs and Tears",
+    "meaning": "Ears"
+  },
+  {
+    "phrase": "Sieg Heils",
+    "meaning": "Piles (haemorrhoids)"
+  },
+  {
+    "phrase": "Shovel and Pick",
+    "meaning": "Nick (Prison)"
+  },
+  {
+    "phrase": "Short of a sheet",
+    "meaning": "in the street"
+  },
+  {
+    "phrase": "Scooby Doo",
+    "meaning": "Shoe"
+  },
+  {
+    "phrase": "Ship in Full Sail",
+    "meaning": "Pint of Ale"
+  },
+  {
+    "phrase": "Sherman Tank",
+    "meaning": "Wank"
+  },
+  {
+    "phrase": "Sherman Tank",
+    "meaning": "Yank"
+  },
+  {
+    "phrase": "Sherbet Dab",
+    "meaning": "Cab"
+  },
+  {
+    "phrase": "Shepherd's Plaid",
+    "meaning": "Bad"
+  },
+  {
+    "phrase": "Shawshank Redemption",
+    "meaning": "Pension"
+  },
+  {
+    "phrase": "Shaun Ryder",
+    "meaning": "Cider"
+  },
+  {
+    "phrase": "Shannon Tweed",
+    "meaning": "Weed"
+  },
+  {
+    "phrase": "Shake and Shiver",
+    "meaning": "River"
+  },
+  {
+    "phrase": "Sexton Blake",
+    "meaning": "Fake"
+  },
+  {
+    "phrase": "Sexton Blake",
+    "meaning": "Cake"
+  },
+  {
+    "phrase": "Septic Tank",
+    "meaning": "Yank (a person from the U.S.)"
+  },
+  {
+    "phrase": "Selina Scott",
+    "meaning": "Spot"
+  },
+  {
+    "phrase": "Sebastion Coe",
+    "meaning": "Toe"
+  },
+  {
+    "phrase": "Scuffers",
+    "meaning": "Police"
+  },
+  {
+    "phrase": "Screw",
+    "meaning": "Prison Officer"
+  },
+  {
+    "phrase": "Screaming Alice",
+    "meaning": "Crystal Palace"
+  },
+  {
+    "phrase": "Scratch yer head (Scratcher)",
+    "meaning": "Bed"
+  },
+  {
+    "phrase": "Scott Mills",
+    "meaning": "Pills"
+  },
+  {
+    "phrase": "Scott Gibbs",
+    "meaning": "Fibs (lies)"
+  },
+  {
+    "phrase": "Scotch Pegs",
+    "meaning": "Legs"
+  },
+  {
+    "phrase": "Scotch Peg",
+    "meaning": "Egg"
+  },
+  {
+    "phrase": "Scotch Mist",
+    "meaning": "(Pissed) Drunk"
+  },
+  {
+    "phrase": "Score",
+    "meaning": "20"
+  },
+  {
+    "phrase": "Scooby-Doo",
+    "meaning": "Clue"
+  },
+  {
+    "phrase": "Scooby (short for Scooby-Doo)",
+    "meaning": "Clue (inkling, as in \"I haven't got a scooby.\")"
+  },
+  {
+    "phrase": "Schindlers List",
+    "meaning": "Pissed, drunk"
+  },
+  {
+    "phrase": "Scarper (Scapa Flow)",
+    "meaning": "go, run away"
+  },
+  {
+    "phrase": "Scapa Flow / Scarper",
+    "meaning": "run away, go"
+  },
+  {
+    "phrase": "Sausage Roll",
+    "meaning": "Goal"
+  },
+  {
+    "phrase": "Sausage and Mash",
+    "meaning": "Cash"
+  },
+  {
+    "phrase": "Saucepan Lid",
+    "meaning": "Quid (One Pound)"
+  },
+  {
+    "phrase": "Saucepan Lid",
+    "meaning": "Kid(Child)"
+  },
+  {
+    "phrase": "Saucepan Handle",
+    "meaning": "Candle"
+  },
+  {
+    "phrase": "Satin and Silk",
+    "meaning": "Milk"
+  },
+  {
+    "phrase": "Santa's Grotto",
+    "meaning": "Blotto, drunk"
+  },
+  {
+    "phrase": "Sans Fairy Ann",
+    "meaning": "I don't mind"
+  },
+  {
+    "phrase": "Sandshoe",
+    "meaning": "Thank you"
+  },
+  {
+    "phrase": "San Toy",
+    "meaning": "Boy"
+  },
+  {
+    "phrase": "San Moritz",
+    "meaning": "Shit's"
+  },
+  {
+    "phrase": "Salvador Dali",
+    "meaning": "Drink"
+  },
+  {
+    "phrase": "Salt",
+    "meaning": "Bank Vault"
+  },
+  {
+    "phrase": "Salmon Trout",
+    "meaning": "Gout"
+  },
+  {
+    "phrase": "Salmon and Trout",
+    "meaning": "Stout (Beer)"
+  },
+  {
+    "phrase": "Salmon and Trout",
+    "meaning": "Snout(Tobacco)"
+  },
+  {
+    "phrase": "Typewriter",
+    "meaning": "Fighter"
+  },
+  {
+    "phrase": "Two-thirty",
+    "meaning": "Dirty"
+  },
+  {
+    "phrase": "Two-Bob Bits",
+    "meaning": "Shits (diarrhoea)"
+  },
+  {
+    "phrase": "Two Little Ducks",
+    "meaning": "22"
+  },
+  {
+    "phrase": "Two Fat Ladies",
+    "meaning": "88"
+  },
+  {
+    "phrase": "Two Bob Bit",
+    "meaning": "Shit"
+  },
+  {
+    "phrase": "Two and Eight",
+    "meaning": "State (in a right old two and eight/hypo mood)"
+  },
+  {
+    "phrase": "Two and Eight",
+    "meaning": "State (Anguish)"
+  },
+  {
+    "phrase": "Two and Eight",
+    "meaning": "State (of upset)"
+  },
+  {
+    "phrase": "Two and Eight",
+    "meaning": "State (in a right old two and eight)"
+  },
+  {
+    "phrase": "Twist and twirl",
+    "meaning": "girl"
+  },
+  {
+    "phrase": "Twist and Shouts",
+    "meaning": "Sprouts"
+  },
+  {
+    "phrase": "Turtle Doves",
+    "meaning": "Gloves"
+  },
+  {
+    "phrase": "Turtle Dove",
+    "meaning": "Love"
+  },
+  {
+    "phrase": "Turkish Delight",
+    "meaning": "Shite (speaking shite/rubbish)"
+  },
+  {
+    "phrase": "Turkish Bath",
+    "meaning": "Laugh"
+  },
+  {
+    "phrase": "Tumble down the sink",
+    "meaning": "drink"
+  },
+  {
+    "phrase": "Tufnell Park",
+    "meaning": "Lark (fun)"
+  },
+  {
+    "phrase": "True till death",
+    "meaning": "Breath"
+  },
+  {
+    "phrase": "Trouble and Strife",
+    "meaning": "Wife"
+  },
+  {
+    "phrase": "Trombone",
+    "meaning": "Phone"
+  },
+  {
+    "phrase": "Tristram Hunt",
+    "meaning": "Cunt (metaphorical - referring to a person, not genitalia)"
+  },
+  {
+    "phrase": "Trick Cyclist",
+    "meaning": "Psychiatrist"
+  },
+  {
+    "phrase": "Tree Trunk",
+    "meaning": "Skunk"
+  },
+  {
+    "phrase": "Treacle Tart",
+    "meaning": "Sweetheart"
+  },
+  {
+    "phrase": "Treacle",
+    "meaning": "Tart"
+  },
+  {
+    "phrase": "Trap One",
+    "meaning": "Toilet"
+  },
+  {
+    "phrase": "Tramp on a Bench",
+    "meaning": "Wench"
+  },
+  {
+    "phrase": "Town Halls",
+    "meaning": "Balls (testicles)"
+  },
+  {
+    "phrase": "Touch Me on the Knob",
+    "meaning": "Bob (Shilling)"
+  },
+  {
+    "phrase": "Top Hat",
+    "meaning": "Chat"
+  },
+  {
+    "phrase": "Tony Slattery",
+    "meaning": "Battery"
+  },
+  {
+    "phrase": "Tony Blair(s)",
+    "meaning": "Flairs or Hair"
+  },
+  {
+    "phrase": "Tonic",
+    "meaning": "Philharmonic"
+  },
+  {
+    "phrase": "Ton",
+    "meaning": "100"
+  },
+  {
+    "phrase": "Tommy Tucker",
+    "meaning": "Fucker"
+  },
+  {
+    "phrase": "Tommy Tucker",
+    "meaning": "Supper"
+  },
+  {
+    "phrase": "Tommy Trinder",
+    "meaning": "Window"
+  },
+  {
+    "phrase": "Tommy Tank",
+    "meaning": "Bank"
+  },
+  {
+    "phrase": "Tommy Tank",
+    "meaning": "Wank (masturbate)"
+  },
+  {
+    "phrase": "Tommy Rollocks",
+    "meaning": "Bollocks"
+  },
+  {
+    "phrase": "Tomfoolery",
+    "meaning": "Jewellery (A nice piece of Tom)"
+  },
+  {
+    "phrase": "Tom, Dick and Harry",
+    "meaning": "Dictionary"
+  },
+  {
+    "phrase": "Tom Tit",
+    "meaning": "Shit"
+  },
+  {
+    "phrase": "Tom Thumb",
+    "meaning": "Rum"
+  },
+  {
+    "phrase": "Tom Tank",
+    "meaning": "Wank"
+  },
+  {
+    "phrase": "Tom Mix",
+    "meaning": "Six"
+  },
+  {
+    "phrase": "Tom Jones",
+    "meaning": "Bones"
+  },
+  {
+    "phrase": "Tom and Jerry",
+    "meaning": "Merry"
+  },
+  {
+    "phrase": "Tom and Dick",
+    "meaning": "Sick"
+  },
+  {
+    "phrase": "tom (tomfoolery)",
+    "meaning": "Jewellery ('Tom' now means any stolen goods)"
+  },
+  {
+    "phrase": "Toe-Rag",
+    "meaning": "Fag (cigarette)"
+  },
+  {
+    "phrase": "Toe Rag",
+    "meaning": "Slag - Female of Easy Virtue"
+  },
+  {
+    "phrase": "Toe Rag",
+    "meaning": "Slag (prostitute)"
+  },
+  {
+    "phrase": "Todd Sloane",
+    "meaning": "on your own (on yer Todd)"
+  },
+  {
+    "phrase": "Toby jugs",
+    "meaning": "Lugs (ears)"
+  },
+  {
+    "phrase": "Toby Jug",
+    "meaning": "Mug (chump)"
+  },
+  {
+    "phrase": "Toby Ale",
+    "meaning": "Rail"
+  },
+  {
+    "phrase": "Toblerone",
+    "meaning": "On my own"
+  },
+  {
+    "phrase": "Tifter (Tit for Tat)",
+    "meaning": "Hat"
+  },
+  {
+    "phrase": "Tit Willow",
+    "meaning": "Pillow"
+  },
+  {
+    "phrase": "Tina Turner",
+    "meaning": "Earner"
+  },
+  {
+    "phrase": "Tin Tank",
+    "meaning": "Bank"
+  },
+  {
+    "phrase": "Tin Tack",
+    "meaning": "Sack"
+  },
+  {
+    "phrase": "Tin of Fruit",
+    "meaning": "Suit"
+  },
+  {
+    "phrase": "Tin Lids",
+    "meaning": "Kids"
+  },
+  {
+    "phrase": "Tin Lid",
+    "meaning": "Yid (Jewish Person)"
+  },
+  {
+    "phrase": "Tin Bath",
+    "meaning": "Laugh"
+  },
+  {
+    "phrase": "Tile",
+    "meaning": "Hairstyle"
+  },
+  {
+    "phrase": "Tilburys (short for Tilbury Docks)",
+    "meaning": "Socks"
+  },
+  {
+    "phrase": "Tilbury Docks / Almond Rocks",
+    "meaning": "Socks"
+  },
+  {
+    "phrase": "Tiddly Wink",
+    "meaning": "Drink"
+  },
+  {
+    "phrase": "Tid (short for tiddlywink)",
+    "meaning": "Chink (Chinese person)"
+  },
+  {
+    "phrase": "Tick-Tock",
+    "meaning": "Clock"
+  },
+  {
+    "phrase": "Tick-tack",
+    "meaning": "The track"
+  },
+  {
+    "phrase": "Tick",
+    "meaning": "Tock"
+  },
+  {
+    "phrase": "Tic Tac",
+    "meaning": "Sack"
+  },
+  {
+    "phrase": "Thumb and Pinky",
+    "meaning": "Chinky"
+  },
+  {
+    "phrase": "Thr'penny Bit",
+    "meaning": "Tits"
+  },
+  {
+    "phrase": "Three Wheel Trike",
+    "meaning": "Dyke (Lesbian)"
+  },
+  {
+    "phrase": "Three Card Trick",
+    "meaning": "Dick (penis)"
+  },
+  {
+    "phrase": "Thora Hird",
+    "meaning": "third (3rd class university degree)"
+  },
+  {
+    "phrase": "Thomas Tilling",
+    "meaning": "Shilling"
+  },
+  {
+    "phrase": "This and That",
+    "meaning": "Cat"
+  },
+  {
+    "phrase": "Thirteen Amp",
+    "meaning": "Tramp (hobo)"
+  },
+  {
+    "phrase": "These and Those",
+    "meaning": "Toes"
+  },
+  {
+    "phrase": "There you are",
+    "meaning": "Bar"
+  },
+  {
+    "phrase": "Theif",
+    "meaning": "Tea Leaf"
+  },
+  {
+    "phrase": "Texas Ranger",
+    "meaning": "Stranger"
+  },
+  {
+    "phrase": "Terry Waite",
+    "meaning": "Late"
+  },
+  {
+    "phrase": "Tennis Racquet",
+    "meaning": "Jacket"
+  },
+  {
+    "phrase": "Ten Speed Gears",
+    "meaning": "Ears"
+  },
+  {
+    "phrase": "Ten Fulongs (Mile and a quarter)",
+    "meaning": "Water"
+  },
+  {
+    "phrase": "Telecom Tower",
+    "meaning": "Shower"
+  },
+  {
+    "phrase": "Ted Ray",
+    "meaning": "Gay (homosexual)"
+  },
+  {
+    "phrase": "Teapot Lids",
+    "meaning": "Kids"
+  },
+  {
+    "phrase": "Teapot Lid",
+    "meaning": "Quid (One Pound)"
+  },
+  {
+    "phrase": "Tea, two and a Bloater",
+    "meaning": "Motor"
+  },
+  {
+    "phrase": "Tea Leafing",
+    "meaning": "Thieving"
+  },
+  {
+    "phrase": "Tea Leaf",
+    "meaning": "Thief"
+  },
+  {
+    "phrase": "Tea Caddy",
+    "meaning": "Paddy"
+  },
+  {
+    "phrase": "Taters in the Mould",
+    "meaning": "Cold"
+  },
+  {
+    "phrase": "Taters (short for potatoes in the mould)",
+    "meaning": "Cold (adjective)"
+  },
+  {
+    "phrase": "Tartan Banner",
+    "meaning": "Tanner (Sixpence)"
+  },
+  {
+    "phrase": "Tart",
+    "meaning": "Golf Kart"
+  },
+  {
+    "phrase": "Talk and Mutter",
+    "meaning": "Butter"
+  },
+  {
+    "phrase": "Tables and Chairs",
+    "meaning": "Stairs"
+  },
+  {
+    "phrase": "Vera Lyn",
+    "meaning": "Gin"
+  },
+  {
+    "phrase": "Von Trappe",
+    "meaning": "Crap"
+  },
+  {
+    "phrase": "Vodka and Tonic",
+    "meaning": "VAT (value added tax)"
+  },
+  {
+    "phrase": "Vindaloo",
+    "meaning": "Clue"
+  },
+  {
+    "phrase": "Vincent Price",
+    "meaning": "Ice"
+  },
+  {
+    "phrase": "Vera Lynns",
+    "meaning": "Skins (Cigarette Papers)"
+  },
+  {
+    "phrase": "Vera Lynn",
+    "meaning": "Fin (or skin, meaning cigaratte rolling paper)"
+  },
+  {
+    "phrase": "Van Gogh Ear",
+    "meaning": "Left Here"
+  },
+  {
+    "phrase": "Valerie Singleton",
+    "meaning": "1"
+  },
+  {
+    "phrase": "Whistle and flute",
+    "meaning": "Suit (of clothes)"
+  },
+  {
+    "phrase": "Weasel and Stoat",
+    "meaning": "Coat"
+  },
+  {
+    "phrase": "Wyatt Earp",
+    "meaning": "Burp"
+  },
+  {
+    "phrase": "Wooly Hat and Scarf",
+    "meaning": "Laugh"
+  },
+  {
+    "phrase": "Wooden Plank",
+    "meaning": "Yank"
+  },
+  {
+    "phrase": "Wobbly Jelly",
+    "meaning": "Telly (Television)"
+  },
+  {
+    "phrase": "Winona Ryder",
+    "meaning": "Cider"
+  },
+  {
+    "phrase": "Windshield Wiper",
+    "meaning": "Billie Piper"
+  },
+  {
+    "phrase": "Window",
+    "meaning": "Tommy Trinder"
+  },
+  {
+    "phrase": "Windjammer",
+    "meaning": "Hammer"
+  },
+  {
+    "phrase": "Wind and Kite",
+    "meaning": "Web site"
+  },
+  {
+    "phrase": "Wilson Picket",
+    "meaning": "Ticket"
+  },
+  {
+    "phrase": "Wilkie Bard",
+    "meaning": "Warrant Card"
+  },
+  {
+    "phrase": "Widow Twanky",
+    "meaning": "Hanky (Handkerchief)"
+  },
+  {
+    "phrase": "White mice",
+    "meaning": "Ice"
+  },
+  {
+    "phrase": "Whistle (whistle and flute)",
+    "meaning": "Suit"
+  },
+  {
+    "phrase": "Whiskey Malt",
+    "meaning": "Fault"
+  },
+  {
+    "phrase": "Whiskey and Soda",
+    "meaning": "Voda (mobile phone)"
+  },
+  {
+    "phrase": "Wheeltappers and Shunters",
+    "meaning": "Punters"
+  },
+  {
+    "phrase": "Whale and Gale",
+    "meaning": "Out of Jail"
+  },
+  {
+    "phrase": "Weston-Super-Mare",
+    "meaning": "Nightmare"
+  },
+  {
+    "phrase": "Westminster Abbey",
+    "meaning": "Shabby"
+  },
+  {
+    "phrase": "West Ham Reserves",
+    "meaning": "Nerves"
+  },
+  {
+    "phrase": "West End Thespian",
+    "meaning": "Lesbian"
+  },
+  {
+    "phrase": "Weeping Willow",
+    "meaning": "Pillow"
+  },
+  {
+    "phrase": "Weep and wail",
+    "meaning": "A Tale"
+  },
+  {
+    "phrase": "Website",
+    "meaning": "Sight"
+  },
+  {
+    "phrase": "Weaver's Chair",
+    "meaning": "Prayer"
+  },
+  {
+    "phrase": "Weasel (weasel and stoat)",
+    "meaning": "Coat"
+  },
+  {
+    "phrase": "Weakest Link",
+    "meaning": "Drink"
+  },
+  {
+    "phrase": "Watford Gap",
+    "meaning": "Slap"
+  },
+  {
+    "phrase": "Walter Scott",
+    "meaning": "Pot"
+  },
+  {
+    "phrase": "Walter Mitty",
+    "meaning": "Titty (breast)"
+  },
+  {
+    "phrase": "Wally's Scarf",
+    "meaning": "Laugh"
+  },
+  {
+    "phrase": "Wally Grout",
+    "meaning": "Shout (round)"
+  },
+  {
+    "phrase": "Wallace and Gromit",
+    "meaning": "Vomit"
+  }
+]
